@@ -1,0 +1,5411 @@
+{
+  "funds": [
+    {
+      "fund_id": "F001",
+      "name": "Parivar Diversified Equity Fund - Direct Growth",
+      "amc": "Parivar",
+      "category": "Flexi Cap Equity",
+      "risk_level": 4,
+      "returns_1y": 15.58,
+      "returns_3y": 15.99,
+      "returns_5y": 17.29,
+      "expense_ratio": 0.13,
+      "aum_cr": 30565.8,
+      "rating": 3,
+      "min_sip": 250,
+      "asset_class": "Equity"
+    },
+    {
+      "fund_id": "F002",
+      "name": "Bharosa Banking & Financial Services Fund - Regular Growth",
+      "amc": "Bharosa",
+      "category": "Sectoral - Banking",
+      "risk_level": 5,
+      "returns_1y": 20.33,
+      "returns_3y": 22.07,
+      "returns_5y": 21.02,
+      "expense_ratio": 1.06,
+      "aum_cr": 6570.6,
+      "rating": 1,
+      "min_sip": 100,
+      "asset_class": "Equity"
+    },
+    {
+      "fund_id": "F003",
+      "name": "Parivar Gilt Fund Fund - Direct Growth",
+      "amc": "Parivar",
+      "category": "Debt - Gilt",
+      "risk_level": 2,
+      "returns_1y": 2.72,
+      "returns_3y": 4.41,
+      "returns_5y": 2.38,
+      "expense_ratio": 0.16,
+      "aum_cr": 7166.0,
+      "rating": 2,
+      "min_sip": 250,
+      "asset_class": "Debt"
+    },
+    {
+      "fund_id": "F004",
+      "name": "Nivesh Banking & Financial Services Fund - Regular Growth",
+      "amc": "Nivesh",
+      "category": "Sectoral - Banking",
+      "risk_level": 5,
+      "returns_1y": -1.87,
+      "returns_3y": 0.02,
+      "returns_5y": 1.22,
+      "expense_ratio": 1.52,
+      "aum_cr": 2557.4,
+      "rating": 3,
+      "min_sip": 250,
+      "asset_class": "Equity"
+    },
+    {
+      "fund_id": "F005",
+      "name": "Suraksha Government Securities Fund Fund - Regular Growth",
+      "amc": "Suraksha",
+      "category": "Debt - Gilt",
+      "risk_level": 2,
+      "returns_1y": 6.4,
+      "returns_3y": 5.27,
+      "returns_5y": 4.07,
+      "expense_ratio": 1.76,
+      "aum_cr": 3463.3,
+      "rating": 2,
+      "min_sip": 500,
+      "asset_class": "Debt"
+    },
+    {
+      "fund_id": "F006",
+      "name": "Bharosa Leaders Fund - Direct Growth",
+      "amc": "Bharosa",
+      "category": "Large Cap Equity",
+      "risk_level": 3,
+      "returns_1y": 10.91,
+      "returns_3y": 12.51,
+      "returns_5y": 12.5,
+      "expense_ratio": 0.28,
+      "aum_cr": 13187.9,
+      "rating": 2,
+      "min_sip": 500,
+      "asset_class": "Equity"
+    },
+    {
+      "fund_id": "F007",
+      "name": "Suraksha ELSS Advantage Fund - Direct Growth",
+      "amc": "Suraksha",
+      "category": "ELSS (Tax Saver)",
+      "risk_level": 4,
+      "returns_1y": 8.96,
+      "returns_3y": 14.84,
+      "returns_5y": 12.18,
+      "expense_ratio": 0.29,
+      "aum_cr": 6224.4,
+      "rating": 3,
+      "min_sip": 100,
+      "asset_class": "Equity"
+    },
+    {
+      "fund_id": "F008",
+      "name": "NorthStar Credit Opportunities Fund - Direct Growth",
+      "amc": "NorthStar",
+      "category": "Debt - Corporate Bond",
+      "risk_level": 2,
+      "returns_1y": 5.53,
+      "returns_3y": 8.56,
+      "returns_5y": 5.39,
+      "expense_ratio": 0.15,
+      "aum_cr": 2827.7,
+      "rating": 4,
+      "min_sip": 500,
+      "asset_class": "Debt"
+    },
+    {
+      "fund_id": "F009",
+      "name": "Udaan Emerging Growth Fund - Regular Growth",
+      "amc": "Udaan",
+      "category": "Mid Cap Equity",
+      "risk_level": 4,
+      "returns_1y": 12.43,
+      "returns_3y": 17.72,
+      "returns_5y": 18.37,
+      "expense_ratio": 0.9,
+      "aum_cr": 3096.1,
+      "rating": 4,
+      "min_sip": 100,
+      "asset_class": "Equity"
+    },
+    {
+      "fund_id": "F010",
+      "name": "NorthStar Credit Opportunities Fund - Regular Growth",
+      "amc": "NorthStar",
+      "category": "Debt - Corporate Bond",
+      "risk_level": 2,
+      "returns_1y": 11.25,
+      "returns_3y": 8.57,
+      "returns_5y": 10.08,
+      "expense_ratio": 0.9,
+      "aum_cr": 1795.3,
+      "rating": 3,
+      "min_sip": 500,
+      "asset_class": "Debt"
+    },
+    {
+      "fund_id": "F011",
+      "name": "Udaan Digital India Fund - Direct Growth",
+      "amc": "Udaan",
+      "category": "Sectoral - Technology",
+      "risk_level": 5,
+      "returns_1y": 22.91,
+      "returns_3y": 19.98,
+      "returns_5y": 19.02,
+      "expense_ratio": 0.16,
+      "aum_cr": 3933.2,
+      "rating": 4,
+      "min_sip": 250,
+      "asset_class": "Equity"
+    },
+    {
+      "fund_id": "F012",
+      "name": "NorthStar US Equity FoF Fund - Direct Growth",
+      "amc": "NorthStar",
+      "category": "International Equity",
+      "risk_level": 4,
+      "returns_1y": 10.11,
+      "returns_3y": 7.61,
+      "returns_5y": 8.2,
+      "expense_ratio": 0.19,
+      "aum_cr": 7585.3,
+      "rating": 2,
+      "min_sip": 1000,
+      "asset_class": "Equity"
+    },
+    {
+      "fund_id": "F013",
+      "name": "Kalpataru Healthcare Opportunities Fund - Direct Growth",
+      "amc": "Kalpataru",
+      "category": "Sectoral - Pharma",
+      "risk_level": 5,
+      "returns_1y": 21.14,
+      "returns_3y": 16.53,
+      "returns_5y": 16.46,
+      "expense_ratio": 0.2,
+      "aum_cr": 32130.9,
+      "rating": 2,
+      "min_sip": 500,
+      "asset_class": "Equity"
+    },
+    {
+      "fund_id": "F014",
+      "name": "Suraksha Low Duration Fund Fund - Regular Growth",
+      "amc": "Suraksha",
+      "category": "Debt - Short Duration",
+      "risk_level": 1,
+      "returns_1y": 2.68,
+      "returns_3y": 6.94,
+      "returns_5y": 9.02,
+      "expense_ratio": 1.51,
+      "aum_cr": 3775.9,
+      "rating": 3,
+      "min_sip": 100,
+      "asset_class": "Debt"
+    },
+    {
+      "fund_id": "F015",
+      "name": "Nivesh Nifty Next 50 Index Fund - Direct Growth",
+      "amc": "Nivesh",
+      "category": "Index Fund",
+      "risk_level": 3,
+      "returns_1y": 13.41,
+      "returns_3y": 14.96,
+      "returns_5y": 13.34,
+      "expense_ratio": 0.29,
+      "aum_cr": 2691.6,
+      "rating": 3,
+      "min_sip": 250,
+      "asset_class": "International"
+    },
+    {
+      "fund_id": "F016",
+      "name": "Trishul Balanced Advantage Fund - Regular Growth",
+      "amc": "Trishul",
+      "category": "Hybrid - Aggressive",
+      "risk_level": 3,
+      "returns_1y": 15.24,
+      "returns_3y": 14.47,
+      "returns_5y": 15.1,
+      "expense_ratio": 1.06,
+      "aum_cr": 5522.0,
+      "rating": 4,
+      "min_sip": 250,
+      "asset_class": "Hybrid"
+    },
+    {
+      "fund_id": "F017",
+      "name": "Parivar Liquid Fund Fund - Direct Growth",
+      "amc": "Parivar",
+      "category": "Debt - Liquid",
+      "risk_level": 1,
+      "returns_1y": 5.17,
+      "returns_3y": 6.15,
+      "returns_5y": 5.37,
+      "expense_ratio": 0.26,
+      "aum_cr": 848.8,
+      "rating": 1,
+      "min_sip": 500,
+      "asset_class": "Debt"
+    },
+    {
+      "fund_id": "F018",
+      "name": "Vridhi Corporate Bond Fund Fund - Direct Growth",
+      "amc": "Vridhi",
+      "category": "Debt - Corporate Bond",
+      "risk_level": 2,
+      "returns_1y": 6.72,
+      "returns_3y": 7.91,
+      "returns_5y": 7.33,
+      "expense_ratio": 0.17,
+      "aum_cr": 4049.9,
+      "rating": 3,
+      "min_sip": 500,
+      "asset_class": "Debt"
+    },
+    {
+      "fund_id": "F019",
+      "name": "Gatiman Tech Opportunities Fund - Direct Growth",
+      "amc": "Gatiman",
+      "category": "Sectoral - Technology",
+      "risk_level": 5,
+      "returns_1y": 34.5,
+      "returns_3y": 33.98,
+      "returns_5y": 34.5,
+      "expense_ratio": 0.29,
+      "aum_cr": 4494.7,
+      "rating": 3,
+      "min_sip": 1000,
+      "asset_class": "Equity"
+    },
+    {
+      "fund_id": "F020",
+      "name": "Vridhi Tax Saver Fund - Direct Growth",
+      "amc": "Vridhi",
+      "category": "ELSS (Tax Saver)",
+      "risk_level": 4,
+      "returns_1y": 4.09,
+      "returns_3y": 7.31,
+      "returns_5y": 5.32,
+      "expense_ratio": 0.11,
+      "aum_cr": 5283.1,
+      "rating": 5,
+      "min_sip": 500,
+      "asset_class": "Equity"
+    },
+    {
+      "fund_id": "F021",
+      "name": "Samriddhi Government Securities Fund Fund - Direct Growth",
+      "amc": "Samriddhi",
+      "category": "Debt - Gilt",
+      "risk_level": 2,
+      "returns_1y": 7.61,
+      "returns_3y": 6.71,
+      "returns_5y": 6.64,
+      "expense_ratio": 0.3,
+      "aum_cr": 1209.0,
+      "rating": 4,
+      "min_sip": 250,
+      "asset_class": "Debt"
+    },
+    {
+      "fund_id": "F022",
+      "name": "Nivesh ELSS Advantage Fund - Direct Growth",
+      "amc": "Nivesh",
+      "category": "ELSS (Tax Saver)",
+      "risk_level": 4,
+      "returns_1y": 7.07,
+      "returns_3y": 9.4,
+      "returns_5y": 10.95,
+      "expense_ratio": 0.25,
+      "aum_cr": 26459.0,
+      "rating": 1,
+      "min_sip": 100,
+      "asset_class": "Equity"
+    },
+    {
+      "fund_id": "F023",
+      "name": "Bharosa Diversified Equity Fund - Direct Growth",
+      "amc": "Bharosa",
+      "category": "Flexi Cap Equity",
+      "risk_level": 4,
+      "returns_1y": 22.92,
+      "returns_3y": 16.35,
+      "returns_5y": 14.37,
+      "expense_ratio": 0.11,
+      "aum_cr": 2491.0,
+      "rating": 5,
+      "min_sip": 1000,
+      "asset_class": "Equity"
+    },
+    {
+      "fund_id": "F024",
+      "name": "Trishul Micro Growth Fund - Regular Growth",
+      "amc": "Trishul",
+      "category": "Small Cap Equity",
+      "risk_level": 5,
+      "returns_1y": 26.02,
+      "returns_3y": 25.99,
+      "returns_5y": 25.26,
+      "expense_ratio": 1.12,
+      "aum_cr": 1373.7,
+      "rating": 3,
+      "min_sip": 1000,
+      "asset_class": "Equity"
+    },
+    {
+      "fund_id": "F025",
+      "name": "Vridhi Gold Fund Fund - Regular Growth",
+      "amc": "Vridhi",
+      "category": "Gold Fund",
+      "risk_level": 3,
+      "returns_1y": 10.97,
+      "returns_3y": 6.32,
+      "returns_5y": 4.75,
+      "expense_ratio": 2.09,
+      "aum_cr": 3339.3,
+      "rating": 3,
+      "min_sip": 100,
+      "asset_class": "Gold"
+    },
+    {
+      "fund_id": "F026",
+      "name": "Gatiman Healthcare Opportunities Fund - Direct Growth",
+      "amc": "Gatiman",
+      "category": "Sectoral - Pharma",
+      "risk_level": 5,
+      "returns_1y": 21.02,
+      "returns_3y": 17.89,
+      "returns_5y": 18.94,
+      "expense_ratio": 0.21,
+      "aum_cr": 714.1,
+      "rating": 3,
+      "min_sip": 500,
+      "asset_class": "Equity"
+    },
+    {
+      "fund_id": "F027",
+      "name": "Bharosa Government Securities Fund Fund - Direct Growth",
+      "amc": "Bharosa",
+      "category": "Debt - Gilt",
+      "risk_level": 2,
+      "returns_1y": 9.74,
+      "returns_3y": 7.39,
+      "returns_5y": 4.92,
+      "expense_ratio": 0.25,
+      "aum_cr": 1007.7,
+      "rating": 4,
+      "min_sip": 500,
+      "asset_class": "Debt"
+    },
+    {
+      "fund_id": "F028",
+      "name": "Bharosa Gold Fund Fund - Regular Growth",
+      "amc": "Bharosa",
+      "category": "Gold Fund",
+      "risk_level": 3,
+      "returns_1y": 15.55,
+      "returns_3y": 14.87,
+      "returns_5y": 16.56,
+      "expense_ratio": 0.81,
+      "aum_cr": 6986.2,
+      "rating": 2,
+      "min_sip": 500,
+      "asset_class": "Gold"
+    },
+    {
+      "fund_id": "F029",
+      "name": "Samriddhi Gold Fund Fund - Direct Growth",
+      "amc": "Samriddhi",
+      "category": "Gold Fund",
+      "risk_level": 3,
+      "returns_1y": 18.88,
+      "returns_3y": 17.46,
+      "returns_5y": 15.08,
+      "expense_ratio": 0.24,
+      "aum_cr": 10806.1,
+      "rating": 2,
+      "min_sip": 500,
+      "asset_class": "Gold"
+    },
+    {
+      "fund_id": "F030",
+      "name": "Kalpataru Liquid Fund Fund - Direct Growth",
+      "amc": "Kalpataru",
+      "category": "Debt - Liquid",
+      "risk_level": 1,
+      "returns_1y": 8.24,
+      "returns_3y": 5.93,
+      "returns_5y": 8.47,
+      "expense_ratio": 0.27,
+      "aum_cr": 13180.2,
+      "rating": 5,
+      "min_sip": 500,
+      "asset_class": "Debt"
+    },
+    {
+      "fund_id": "F031",
+      "name": "Suraksha US Equity FoF Fund - Direct Growth",
+      "amc": "Suraksha",
+      "category": "International Equity",
+      "risk_level": 4,
+      "returns_1y": 9.27,
+      "returns_3y": 11.53,
+      "returns_5y": 9.75,
+      "expense_ratio": 0.29,
+      "aum_cr": 1846.5,
+      "rating": 4,
+      "min_sip": 100,
+      "asset_class": "Equity"
+    },
+    {
+      "fund_id": "F032",
+      "name": "Udaan Micro Growth Fund - Direct Growth",
+      "amc": "Udaan",
+      "category": "Small Cap Equity",
+      "risk_level": 5,
+      "returns_1y": 20.71,
+      "returns_3y": 17.08,
+      "returns_5y": 18.16,
+      "expense_ratio": 0.2,
+      "aum_cr": 3577.5,
+      "rating": 5,
+      "min_sip": 250,
+      "asset_class": "Equity"
+    },
+    {
+      "fund_id": "F033",
+      "name": "Gatiman ELSS Advantage Fund - Regular Growth",
+      "amc": "Gatiman",
+      "category": "ELSS (Tax Saver)",
+      "risk_level": 4,
+      "returns_1y": 13.93,
+      "returns_3y": 16.5,
+      "returns_5y": 14.36,
+      "expense_ratio": 2.12,
+      "aum_cr": 8768.9,
+      "rating": 3,
+      "min_sip": 250,
+      "asset_class": "Equity"
+    },
+    {
+      "fund_id": "F034",
+      "name": "Nivesh Healthcare Opportunities Fund - Direct Growth",
+      "amc": "Nivesh",
+      "category": "Sectoral - Pharma",
+      "risk_level": 5,
+      "returns_1y": 17.82,
+      "returns_3y": 19.18,
+      "returns_5y": 20.73,
+      "expense_ratio": 0.18,
+      "aum_cr": 2876.1,
+      "rating": 4,
+      "min_sip": 250,
+      "asset_class": "Equity"
+    },
+    {
+      "fund_id": "F035",
+      "name": "Trishul China-India FoF Fund - Regular Growth",
+      "amc": "Trishul",
+      "category": "International Equity",
+      "risk_level": 4,
+      "returns_1y": 10.54,
+      "returns_3y": 14.28,
+      "returns_5y": 14.63,
+      "expense_ratio": 1.6,
+      "aum_cr": 7803.9,
+      "rating": 3,
+      "min_sip": 500,
+      "asset_class": "Equity"
+    },
+    {
+      "fund_id": "F036",
+      "name": "Nivesh Balanced Advantage Fund - Direct Growth",
+      "amc": "Nivesh",
+      "category": "Hybrid - Aggressive",
+      "risk_level": 3,
+      "returns_1y": 11.74,
+      "returns_3y": 8.57,
+      "returns_5y": 8.67,
+      "expense_ratio": 0.25,
+      "aum_cr": 18027.6,
+      "rating": 4,
+      "min_sip": 250,
+      "asset_class": "Hybrid"
+    },
+    {
+      "fund_id": "F037",
+      "name": "NorthStar BFSI Fund Fund - Direct Growth",
+      "amc": "NorthStar",
+      "category": "Sectoral - Banking",
+      "risk_level": 5,
+      "returns_1y": 2.55,
+      "returns_3y": 5.36,
+      "returns_5y": 6.39,
+      "expense_ratio": 0.27,
+      "aum_cr": 9104.7,
+      "rating": 3,
+      "min_sip": 250,
+      "asset_class": "Equity"
+    },
+    {
+      "fund_id": "F038",
+      "name": "Parivar Banking & Financial Services Fund - Regular Growth",
+      "amc": "Parivar",
+      "category": "Sectoral - Banking",
+      "risk_level": 5,
+      "returns_1y": 25.41,
+      "returns_3y": 21.1,
+      "returns_5y": 21.11,
+      "expense_ratio": 1.71,
+      "aum_cr": 15441.3,
+      "rating": 4,
+      "min_sip": 100,
+      "asset_class": "Equity"
+    },
+    {
+      "fund_id": "F039",
+      "name": "NorthStar Banking & Financial Services Fund - Direct Growth",
+      "amc": "NorthStar",
+      "category": "Sectoral - Banking",
+      "risk_level": 5,
+      "returns_1y": 15.07,
+      "returns_3y": 12.79,
+      "returns_5y": 11.24,
+      "expense_ratio": 0.22,
+      "aum_cr": 3699.0,
+      "rating": 3,
+      "min_sip": 100,
+      "asset_class": "Equity"
+    },
+    {
+      "fund_id": "F040",
+      "name": "Suraksha Gold ETF FoF Fund - Regular Growth",
+      "amc": "Suraksha",
+      "category": "Gold Fund",
+      "risk_level": 3,
+      "returns_1y": 2.49,
+      "returns_3y": 7.86,
+      "returns_5y": 8.57,
+      "expense_ratio": 1.63,
+      "aum_cr": 2789.7,
+      "rating": 4,
+      "min_sip": 1000,
+      "asset_class": "Gold"
+    },
+    {
+      "fund_id": "F041",
+      "name": "Nivesh Digital India Fund - Regular Growth",
+      "amc": "Nivesh",
+      "category": "Sectoral - Technology",
+      "risk_level": 5,
+      "returns_1y": 14.35,
+      "returns_3y": 17.58,
+      "returns_5y": 16.15,
+      "expense_ratio": 1.67,
+      "aum_cr": 11109.1,
+      "rating": 5,
+      "min_sip": 1000,
+      "asset_class": "Equity"
+    },
+    {
+      "fund_id": "F042",
+      "name": "Kalpataru BFSI Fund Fund - Direct Growth",
+      "amc": "Kalpataru",
+      "category": "Sectoral - Banking",
+      "risk_level": 5,
+      "returns_1y": 31.99,
+      "returns_3y": 27.9,
+      "returns_5y": 29.56,
+      "expense_ratio": 0.3,
+      "aum_cr": 432.6,
+      "rating": 3,
+      "min_sip": 100,
+      "asset_class": "Equity"
+    },
+    {
+      "fund_id": "F043",
+      "name": "Gatiman Multi Cap Fund - Direct Growth",
+      "amc": "Gatiman",
+      "category": "Flexi Cap Equity",
+      "risk_level": 4,
+      "returns_1y": 13.91,
+      "returns_3y": 11.35,
+      "returns_5y": 9.76,
+      "expense_ratio": 0.11,
+      "aum_cr": 4282.6,
+      "rating": 2,
+      "min_sip": 1000,
+      "asset_class": "Equity"
+    },
+    {
+      "fund_id": "F044",
+      "name": "Kalpataru Gilt Fund Fund - Regular Growth",
+      "amc": "Kalpataru",
+      "category": "Debt - Gilt",
+      "risk_level": 2,
+      "returns_1y": 8.49,
+      "returns_3y": 9.49,
+      "returns_5y": 8.85,
+      "expense_ratio": 1.15,
+      "aum_cr": 40886.1,
+      "rating": 3,
+      "min_sip": 100,
+      "asset_class": "Debt"
+    },
+    {
+      "fund_id": "F045",
+      "name": "Trishul Mid Cap Opportunities Fund - Direct Growth",
+      "amc": "Trishul",
+      "category": "Mid Cap Equity",
+      "risk_level": 4,
+      "returns_1y": 12.45,
+      "returns_3y": 9.7,
+      "returns_5y": 13.94,
+      "expense_ratio": 0.18,
+      "aum_cr": 16965.9,
+      "rating": 2,
+      "min_sip": 100,
+      "asset_class": "Equity"
+    },
+    {
+      "fund_id": "F046",
+      "name": "Suraksha Banking & Financial Services Fund - Regular Growth",
+      "amc": "Suraksha",
+      "category": "Sectoral - Banking",
+      "risk_level": 5,
+      "returns_1y": 5.33,
+      "returns_3y": 6.04,
+      "returns_5y": 9.78,
+      "expense_ratio": 0.94,
+      "aum_cr": 100.5,
+      "rating": 2,
+      "min_sip": 1000,
+      "asset_class": "Equity"
+    },
+    {
+      "fund_id": "F047",
+      "name": "Trishul Tax Saver Fund - Direct Growth",
+      "amc": "Trishul",
+      "category": "ELSS (Tax Saver)",
+      "risk_level": 4,
+      "returns_1y": 9.25,
+      "returns_3y": 12.99,
+      "returns_5y": 16.25,
+      "expense_ratio": 0.23,
+      "aum_cr": 883.4,
+      "rating": 3,
+      "min_sip": 1000,
+      "asset_class": "Equity"
+    },
+    {
+      "fund_id": "F048",
+      "name": "NorthStar BFSI Fund Fund - Regular Growth",
+      "amc": "NorthStar",
+      "category": "Sectoral - Banking",
+      "risk_level": 5,
+      "returns_1y": 11.92,
+      "returns_3y": 11.74,
+      "returns_5y": 16.44,
+      "expense_ratio": 2.0,
+      "aum_cr": 1513.5,
+      "rating": 3,
+      "min_sip": 100,
+      "asset_class": "Equity"
+    },
+    {
+      "fund_id": "F049",
+      "name": "Gatiman Mid Cap Opportunities Fund - Direct Growth",
+      "amc": "Gatiman",
+      "category": "Mid Cap Equity",
+      "risk_level": 4,
+      "returns_1y": 15.2,
+      "returns_3y": 17.0,
+      "returns_5y": 17.14,
+      "expense_ratio": 0.29,
+      "aum_cr": 3095.2,
+      "rating": 1,
+      "min_sip": 100,
+      "asset_class": "Equity"
+    },
+    {
+      "fund_id": "F050",
+      "name": "Bharosa BFSI Fund Fund - Direct Growth",
+      "amc": "Bharosa",
+      "category": "Sectoral - Banking",
+      "risk_level": 5,
+      "returns_1y": 22.11,
+      "returns_3y": 23.96,
+      "returns_5y": 28.18,
+      "expense_ratio": 0.21,
+      "aum_cr": 4096.4,
+      "rating": 4,
+      "min_sip": 1000,
+      "asset_class": "Equity"
+    },
+    {
+      "fund_id": "F051",
+      "name": "Trishul Digital India Fund - Direct Growth",
+      "amc": "Trishul",
+      "category": "Sectoral - Technology",
+      "risk_level": 5,
+      "returns_1y": 17.66,
+      "returns_3y": 19.53,
+      "returns_5y": 19.11,
+      "expense_ratio": 0.27,
+      "aum_cr": 2720.0,
+      "rating": 2,
+      "min_sip": 1000,
+      "asset_class": "Equity"
+    },
+    {
+      "fund_id": "F052",
+      "name": "Trishul Large Cap Fund - Direct Growth",
+      "amc": "Trishul",
+      "category": "Large Cap Equity",
+      "risk_level": 3,
+      "returns_1y": 14.79,
+      "returns_3y": 11.93,
+      "returns_5y": 14.84,
+      "expense_ratio": 0.28,
+      "aum_cr": 13035.5,
+      "rating": 4,
+      "min_sip": 500,
+      "asset_class": "Equity"
+    },
+    {
+      "fund_id": "F053",
+      "name": "Udaan Government Securities Fund Fund - Direct Growth",
+      "amc": "Udaan",
+      "category": "Debt - Gilt",
+      "risk_level": 2,
+      "returns_1y": 4.08,
+      "returns_3y": 5.76,
+      "returns_5y": 7.25,
+      "expense_ratio": 0.3,
+      "aum_cr": 10223.5,
+      "rating": 1,
+      "min_sip": 250,
+      "asset_class": "Debt"
+    },
+    {
+      "fund_id": "F054",
+      "name": "Suraksha US Equity FoF Fund - Regular Growth",
+      "amc": "Suraksha",
+      "category": "International Equity",
+      "risk_level": 4,
+      "returns_1y": 3.67,
+      "returns_3y": 5.68,
+      "returns_5y": 8.0,
+      "expense_ratio": 2.1,
+      "aum_cr": 3784.9,
+      "rating": 4,
+      "min_sip": 100,
+      "asset_class": "Equity"
+    },
+    {
+      "fund_id": "F055",
+      "name": "Parivar Liquid Fund Fund - Regular Growth",
+      "amc": "Parivar",
+      "category": "Debt - Liquid",
+      "risk_level": 1,
+      "returns_1y": 9.35,
+      "returns_3y": 6.91,
+      "returns_5y": 9.52,
+      "expense_ratio": 1.25,
+      "aum_cr": 5040.2,
+      "rating": 3,
+      "min_sip": 1000,
+      "asset_class": "Debt"
+    },
+    {
+      "fund_id": "F056",
+      "name": "Nivesh Gold Fund Fund - Direct Growth",
+      "amc": "Nivesh",
+      "category": "Gold Fund",
+      "risk_level": 3,
+      "returns_1y": 12.61,
+      "returns_3y": 13.42,
+      "returns_5y": 12.19,
+      "expense_ratio": 0.29,
+      "aum_cr": 5521.4,
+      "rating": 4,
+      "min_sip": 100,
+      "asset_class": "Gold"
+    },
+    {
+      "fund_id": "F057",
+      "name": "NorthStar Nifty Next 50 Index Fund - Direct Growth",
+      "amc": "NorthStar",
+      "category": "Index Fund",
+      "risk_level": 3,
+      "returns_1y": 16.64,
+      "returns_3y": 10.36,
+      "returns_5y": 8.35,
+      "expense_ratio": 0.23,
+      "aum_cr": 1144.8,
+      "rating": 4,
+      "min_sip": 250,
+      "asset_class": "International"
+    },
+    {
+      "fund_id": "F058",
+      "name": "NorthStar Corporate Bond Fund Fund - Regular Growth",
+      "amc": "NorthStar",
+      "category": "Debt - Corporate Bond",
+      "risk_level": 2,
+      "returns_1y": 6.2,
+      "returns_3y": 8.3,
+      "returns_5y": 8.28,
+      "expense_ratio": 1.57,
+      "aum_cr": 15837.6,
+      "rating": 3,
+      "min_sip": 100,
+      "asset_class": "Debt"
+    },
+    {
+      "fund_id": "F059",
+      "name": "Trishul Small Cap Discovery Fund - Regular Growth",
+      "amc": "Trishul",
+      "category": "Small Cap Equity",
+      "risk_level": 5,
+      "returns_1y": 11.44,
+      "returns_3y": 12.4,
+      "returns_5y": 13.23,
+      "expense_ratio": 1.67,
+      "aum_cr": 2498.7,
+      "rating": 2,
+      "min_sip": 500,
+      "asset_class": "Equity"
+    },
+    {
+      "fund_id": "F060",
+      "name": "Suraksha Healthcare Opportunities Fund - Direct Growth",
+      "amc": "Suraksha",
+      "category": "Sectoral - Pharma",
+      "risk_level": 5,
+      "returns_1y": 17.11,
+      "returns_3y": 15.43,
+      "returns_5y": 17.18,
+      "expense_ratio": 0.12,
+      "aum_cr": 864.6,
+      "rating": 1,
+      "min_sip": 500,
+      "asset_class": "Equity"
+    },
+    {
+      "fund_id": "F061",
+      "name": "Bharosa Credit Opportunities Fund - Direct Growth",
+      "amc": "Bharosa",
+      "category": "Debt - Corporate Bond",
+      "risk_level": 2,
+      "returns_1y": 6.0,
+      "returns_3y": 6.64,
+      "returns_5y": 7.26,
+      "expense_ratio": 0.18,
+      "aum_cr": 28866.2,
+      "rating": 3,
+      "min_sip": 500,
+      "asset_class": "Debt"
+    },
+    {
+      "fund_id": "F062",
+      "name": "Parivar Micro Growth Fund - Regular Growth",
+      "amc": "Parivar",
+      "category": "Small Cap Equity",
+      "risk_level": 5,
+      "returns_1y": 16.91,
+      "returns_3y": 18.96,
+      "returns_5y": 18.86,
+      "expense_ratio": 0.97,
+      "aum_cr": 7239.2,
+      "rating": 2,
+      "min_sip": 100,
+      "asset_class": "Equity"
+    },
+    {
+      "fund_id": "F063",
+      "name": "Nivesh Smallcap Fund - Regular Growth",
+      "amc": "Nivesh",
+      "category": "Small Cap Equity",
+      "risk_level": 5,
+      "returns_1y": 27.75,
+      "returns_3y": 23.15,
+      "returns_5y": 22.93,
+      "expense_ratio": 1.2,
+      "aum_cr": 7959.0,
+      "rating": 3,
+      "min_sip": 500,
+      "asset_class": "Equity"
+    },
+    {
+      "fund_id": "F064",
+      "name": "Ananta Tax Saver Fund - Direct Growth",
+      "amc": "Ananta",
+      "category": "ELSS (Tax Saver)",
+      "risk_level": 4,
+      "returns_1y": 16.04,
+      "returns_3y": 15.83,
+      "returns_5y": 17.8,
+      "expense_ratio": 0.3,
+      "aum_cr": 5526.0,
+      "rating": 2,
+      "min_sip": 500,
+      "asset_class": "Equity"
+    },
+    {
+      "fund_id": "F065",
+      "name": "Bharosa Global Innovation Fund - Regular Growth",
+      "amc": "Bharosa",
+      "category": "International Equity",
+      "risk_level": 4,
+      "returns_1y": 14.64,
+      "returns_3y": 13.15,
+      "returns_5y": 16.05,
+      "expense_ratio": 1.44,
+      "aum_cr": 15539.3,
+      "rating": 4,
+      "min_sip": 500,
+      "asset_class": "Equity"
+    },
+    {
+      "fund_id": "F066",
+      "name": "Parivar Gold ETF FoF Fund - Regular Growth",
+      "amc": "Parivar",
+      "category": "Gold Fund",
+      "risk_level": 3,
+      "returns_1y": 16.93,
+      "returns_3y": 17.26,
+      "returns_5y": 19.21,
+      "expense_ratio": 1.67,
+      "aum_cr": 1794.2,
+      "rating": 2,
+      "min_sip": 100,
+      "asset_class": "Gold"
+    },
+    {
+      "fund_id": "F067",
+      "name": "Vridhi ELSS Advantage Fund - Regular Growth",
+      "amc": "Vridhi",
+      "category": "ELSS (Tax Saver)",
+      "risk_level": 4,
+      "returns_1y": 3.92,
+      "returns_3y": 5.5,
+      "returns_5y": 3.98,
+      "expense_ratio": 2.16,
+      "aum_cr": 5886.8,
+      "rating": 1,
+      "min_sip": 250,
+      "asset_class": "Equity"
+    },
+    {
+      "fund_id": "F068",
+      "name": "Suraksha Cash Management Fund Fund - Regular Growth",
+      "amc": "Suraksha",
+      "category": "Debt - Liquid",
+      "risk_level": 1,
+      "returns_1y": 8.39,
+      "returns_3y": 6.68,
+      "returns_5y": 8.62,
+      "expense_ratio": 1.03,
+      "aum_cr": 1008.0,
+      "rating": 5,
+      "min_sip": 1000,
+      "asset_class": "Debt"
+    },
+    {
+      "fund_id": "F069",
+      "name": "Parivar Pharma & Healthcare Fund - Regular Growth",
+      "amc": "Parivar",
+      "category": "Sectoral - Pharma",
+      "risk_level": 5,
+      "returns_1y": 20.85,
+      "returns_3y": 22.26,
+      "returns_5y": 18.83,
+      "expense_ratio": 2.16,
+      "aum_cr": 24950.4,
+      "rating": 3,
+      "min_sip": 1000,
+      "asset_class": "Equity"
+    },
+    {
+      "fund_id": "F070",
+      "name": "Parivar Pharma & Healthcare Fund - Direct Growth",
+      "amc": "Parivar",
+      "category": "Sectoral - Pharma",
+      "risk_level": 5,
+      "returns_1y": 8.59,
+      "returns_3y": 15.95,
+      "returns_5y": 14.15,
+      "expense_ratio": 0.15,
+      "aum_cr": 4945.8,
+      "rating": 3,
+      "min_sip": 250,
+      "asset_class": "Equity"
+    },
+    {
+      "fund_id": "F071",
+      "name": "Bharosa Healthcare Opportunities Fund - Regular Growth",
+      "amc": "Bharosa",
+      "category": "Sectoral - Pharma",
+      "risk_level": 5,
+      "returns_1y": 12.72,
+      "returns_3y": 10.85,
+      "returns_5y": 8.71,
+      "expense_ratio": 2.14,
+      "aum_cr": 4142.9,
+      "rating": 1,
+      "min_sip": 1000,
+      "asset_class": "Equity"
+    },
+    {
+      "fund_id": "F072",
+      "name": "NorthStar Bluechip Fund - Regular Growth",
+      "amc": "NorthStar",
+      "category": "Large Cap Equity",
+      "risk_level": 3,
+      "returns_1y": 17.79,
+      "returns_3y": 14.61,
+      "returns_5y": 17.69,
+      "expense_ratio": 1.3,
+      "aum_cr": 7323.0,
+      "rating": 2,
+      "min_sip": 250,
+      "asset_class": "Equity"
+    },
+    {
+      "fund_id": "F073",
+      "name": "Ananta Mid Cap Opportunities Fund - Regular Growth",
+      "amc": "Ananta",
+      "category": "Mid Cap Equity",
+      "risk_level": 4,
+      "returns_1y": 24.11,
+      "returns_3y": 23.76,
+      "returns_5y": 26.12,
+      "expense_ratio": 1.57,
+      "aum_cr": 5329.6,
+      "rating": 4,
+      "min_sip": 250,
+      "asset_class": "Equity"
+    },
+    {
+      "fund_id": "F074",
+      "name": "Bharosa Gilt Fund Fund - Direct Growth",
+      "amc": "Bharosa",
+      "category": "Debt - Gilt",
+      "risk_level": 2,
+      "returns_1y": 4.19,
+      "returns_3y": 7.25,
+      "returns_5y": 6.71,
+      "expense_ratio": 0.11,
+      "aum_cr": 10662.1,
+      "rating": 4,
+      "min_sip": 500,
+      "asset_class": "Debt"
+    },
+    {
+      "fund_id": "F075",
+      "name": "Ananta Midcap Fund - Regular Growth",
+      "amc": "Ananta",
+      "category": "Mid Cap Equity",
+      "risk_level": 4,
+      "returns_1y": 13.24,
+      "returns_3y": 11.18,
+      "returns_5y": 13.3,
+      "expense_ratio": 1.35,
+      "aum_cr": 595.6,
+      "rating": 4,
+      "min_sip": 250,
+      "asset_class": "Equity"
+    },
+    {
+      "fund_id": "F076",
+      "name": "Ananta Diversified Equity Fund - Direct Growth",
+      "amc": "Ananta",
+      "category": "Flexi Cap Equity",
+      "risk_level": 4,
+      "returns_1y": 14.05,
+      "returns_3y": 13.45,
+      "returns_5y": 9.11,
+      "expense_ratio": 0.26,
+      "aum_cr": 34694.6,
+      "rating": 1,
+      "min_sip": 250,
+      "asset_class": "Equity"
+    },
+    {
+      "fund_id": "F077",
+      "name": "Bharosa Banking & Financial Services Fund - Direct Growth",
+      "amc": "Bharosa",
+      "category": "Sectoral - Banking",
+      "risk_level": 5,
+      "returns_1y": 2.91,
+      "returns_3y": 3.08,
+      "returns_5y": 3.85,
+      "expense_ratio": 0.2,
+      "aum_cr": 4725.7,
+      "rating": 4,
+      "min_sip": 100,
+      "asset_class": "Equity"
+    },
+    {
+      "fund_id": "F078",
+      "name": "Udaan Sensex Index Fund - Direct Growth",
+      "amc": "Udaan",
+      "category": "Index Fund",
+      "risk_level": 3,
+      "returns_1y": 8.75,
+      "returns_3y": 9.12,
+      "returns_5y": 8.97,
+      "expense_ratio": 0.13,
+      "aum_cr": 7630.6,
+      "rating": 2,
+      "min_sip": 250,
+      "asset_class": "International"
+    },
+    {
+      "fund_id": "F079",
+      "name": "Bharosa Pharma & Healthcare Fund - Direct Growth",
+      "amc": "Bharosa",
+      "category": "Sectoral - Pharma",
+      "risk_level": 5,
+      "returns_1y": 7.22,
+      "returns_3y": 10.4,
+      "returns_5y": 10.27,
+      "expense_ratio": 0.23,
+      "aum_cr": 15462.5,
+      "rating": 2,
+      "min_sip": 100,
+      "asset_class": "Equity"
+    },
+    {
+      "fund_id": "F080",
+      "name": "Suraksha Conservative Hybrid Fund - Direct Growth",
+      "amc": "Suraksha",
+      "category": "Hybrid - Conservative",
+      "risk_level": 2,
+      "returns_1y": 5.34,
+      "returns_3y": 7.79,
+      "returns_5y": 6.67,
+      "expense_ratio": 0.12,
+      "aum_cr": 4322.4,
+      "rating": 2,
+      "min_sip": 500,
+      "asset_class": "Hybrid"
+    },
+    {
+      "fund_id": "F081",
+      "name": "Trishul Tech Opportunities Fund - Direct Growth",
+      "amc": "Trishul",
+      "category": "Sectoral - Technology",
+      "risk_level": 5,
+      "returns_1y": 8.43,
+      "returns_3y": 12.02,
+      "returns_5y": 15.95,
+      "expense_ratio": 0.11,
+      "aum_cr": 5127.2,
+      "rating": 3,
+      "min_sip": 100,
+      "asset_class": "Equity"
+    },
+    {
+      "fund_id": "F082",
+      "name": "Ananta Healthcare Opportunities Fund - Regular Growth",
+      "amc": "Ananta",
+      "category": "Sectoral - Pharma",
+      "risk_level": 5,
+      "returns_1y": 24.98,
+      "returns_3y": 22.43,
+      "returns_5y": 21.19,
+      "expense_ratio": 1.85,
+      "aum_cr": 2600.3,
+      "rating": 2,
+      "min_sip": 500,
+      "asset_class": "Equity"
+    },
+    {
+      "fund_id": "F083",
+      "name": "NorthStar Large Cap Fund - Direct Growth",
+      "amc": "NorthStar",
+      "category": "Large Cap Equity",
+      "risk_level": 3,
+      "returns_1y": 5.26,
+      "returns_3y": 12.17,
+      "returns_5y": 9.14,
+      "expense_ratio": 0.19,
+      "aum_cr": 25342.8,
+      "rating": 4,
+      "min_sip": 500,
+      "asset_class": "Equity"
+    },
+    {
+      "fund_id": "F084",
+      "name": "NorthStar Mid Cap Opportunities Fund - Direct Growth",
+      "amc": "NorthStar",
+      "category": "Mid Cap Equity",
+      "risk_level": 4,
+      "returns_1y": 11.15,
+      "returns_3y": 11.06,
+      "returns_5y": 13.0,
+      "expense_ratio": 0.21,
+      "aum_cr": 4215.4,
+      "rating": 2,
+      "min_sip": 500,
+      "asset_class": "Equity"
+    },
+    {
+      "fund_id": "F085",
+      "name": "Trishul Liquid Fund Fund - Direct Growth",
+      "amc": "Trishul",
+      "category": "Debt - Liquid",
+      "risk_level": 1,
+      "returns_1y": 6.31,
+      "returns_3y": 5.7,
+      "returns_5y": 4.19,
+      "expense_ratio": 0.1,
+      "aum_cr": 891.8,
+      "rating": 2,
+      "min_sip": 250,
+      "asset_class": "Debt"
+    },
+    {
+      "fund_id": "F086",
+      "name": "Parivar Healthcare Opportunities Fund - Direct Growth",
+      "amc": "Parivar",
+      "category": "Sectoral - Pharma",
+      "risk_level": 5,
+      "returns_1y": 7.1,
+      "returns_3y": 9.42,
+      "returns_5y": 8.72,
+      "expense_ratio": 0.28,
+      "aum_cr": 37218.8,
+      "rating": 4,
+      "min_sip": 250,
+      "asset_class": "Equity"
+    },
+    {
+      "fund_id": "F087",
+      "name": "Trishul Short Term Debt Fund - Regular Growth",
+      "amc": "Trishul",
+      "category": "Debt - Short Duration",
+      "risk_level": 1,
+      "returns_1y": 11.43,
+      "returns_3y": 6.99,
+      "returns_5y": 7.14,
+      "expense_ratio": 1.62,
+      "aum_cr": 1748.4,
+      "rating": 2,
+      "min_sip": 500,
+      "asset_class": "Debt"
+    },
+    {
+      "fund_id": "F088",
+      "name": "Gatiman Liquid Fund Fund - Regular Growth",
+      "amc": "Gatiman",
+      "category": "Debt - Liquid",
+      "risk_level": 1,
+      "returns_1y": 6.13,
+      "returns_3y": 7.29,
+      "returns_5y": 5.95,
+      "expense_ratio": 1.31,
+      "aum_cr": 14934.3,
+      "rating": 5,
+      "min_sip": 500,
+      "asset_class": "Debt"
+    },
+    {
+      "fund_id": "F089",
+      "name": "Vridhi Gold ETF FoF Fund - Direct Growth",
+      "amc": "Vridhi",
+      "category": "Gold Fund",
+      "risk_level": 3,
+      "returns_1y": 6.1,
+      "returns_3y": 4.41,
+      "returns_5y": 3.11,
+      "expense_ratio": 0.14,
+      "aum_cr": 2739.3,
+      "rating": 2,
+      "min_sip": 1000,
+      "asset_class": "Gold"
+    },
+    {
+      "fund_id": "F090",
+      "name": "Nivesh US Equity FoF Fund - Direct Growth",
+      "amc": "Nivesh",
+      "category": "International Equity",
+      "risk_level": 4,
+      "returns_1y": 2.22,
+      "returns_3y": 9.73,
+      "returns_5y": 11.1,
+      "expense_ratio": 0.3,
+      "aum_cr": 3689.6,
+      "rating": 2,
+      "min_sip": 1000,
+      "asset_class": "Equity"
+    }
+  ],
+  "stocks": [
+    {
+      "stock_id": "S001",
+      "name": "SBI Ltd",
+      "ticker": "SBILTD",
+      "sector": "Realty",
+      "market_cap_category": "Mid",
+      "risk_level": 4,
+      "pe_ratio": 58.5,
+      "returns_1y": 22.27,
+      "market_cap_cr": 16628.3
+    },
+    {
+      "stock_id": "S002",
+      "name": "SBI Steel",
+      "ticker": "SBISTEEL",
+      "sector": "IT",
+      "market_cap_category": "Large",
+      "risk_level": 3,
+      "pe_ratio": 22.9,
+      "returns_1y": 17.01,
+      "market_cap_cr": 74455.4
+    },
+    {
+      "stock_id": "S003",
+      "name": "ICICI Bank",
+      "ticker": "ICICIBAN",
+      "sector": "Realty",
+      "market_cap_category": "Mid",
+      "risk_level": 4,
+      "pe_ratio": 56.5,
+      "returns_1y": 54.78,
+      "market_cap_cr": 48810.0
+    },
+    {
+      "stock_id": "S004",
+      "name": "Infosys Power",
+      "ticker": "INFOSYSP",
+      "sector": "Telecom",
+      "market_cap_category": "Mid",
+      "risk_level": 4,
+      "pe_ratio": 24.0,
+      "returns_1y": 6.07,
+      "market_cap_cr": 21088.4
+    },
+    {
+      "stock_id": "S005",
+      "name": "ICICI Steel",
+      "ticker": "ICICISTE",
+      "sector": "Telecom",
+      "market_cap_category": "Small",
+      "risk_level": 5,
+      "pe_ratio": 26.2,
+      "returns_1y": 29.83,
+      "market_cap_cr": 201.8
+    },
+    {
+      "stock_id": "S006",
+      "name": "Hind Corp",
+      "ticker": "HINDCORP",
+      "sector": "Pharma",
+      "market_cap_category": "Mid",
+      "risk_level": 4,
+      "pe_ratio": 22.1,
+      "returns_1y": 22.68,
+      "market_cap_cr": 6480.5
+    },
+    {
+      "stock_id": "S007",
+      "name": "Bharti Technologies",
+      "ticker": "BHARTITE",
+      "sector": "Banking",
+      "market_cap_category": "Small",
+      "risk_level": 5,
+      "pe_ratio": 24.4,
+      "returns_1y": -9.9,
+      "market_cap_cr": 2239.9
+    },
+    {
+      "stock_id": "S008",
+      "name": "HDFC Motors",
+      "ticker": "HDFCMOTO",
+      "sector": "Auto",
+      "market_cap_category": "Small",
+      "risk_level": 5,
+      "pe_ratio": 34.1,
+      "returns_1y": 3.75,
+      "market_cap_cr": 1877.9
+    },
+    {
+      "stock_id": "S009",
+      "name": "Mahindra Industries",
+      "ticker": "MAHINDRA",
+      "sector": "IT",
+      "market_cap_category": "Large",
+      "risk_level": 3,
+      "pe_ratio": 26.8,
+      "returns_1y": 5.98,
+      "market_cap_cr": 299000.6
+    },
+    {
+      "stock_id": "S010",
+      "name": "Vedanta Pharma",
+      "ticker": "VEDANTAP",
+      "sector": "Banking",
+      "market_cap_category": "Mid",
+      "risk_level": 4,
+      "pe_ratio": 44.1,
+      "returns_1y": 27.54,
+      "market_cap_cr": 42330.2
+    },
+    {
+      "stock_id": "S011",
+      "name": "Asian Enterprises",
+      "ticker": "ASIANENT",
+      "sector": "Infrastructure",
+      "market_cap_category": "Mid",
+      "risk_level": 4,
+      "pe_ratio": 33.6,
+      "returns_1y": -13.86,
+      "market_cap_cr": 5848.2
+    },
+    {
+      "stock_id": "S012",
+      "name": "HDFC Ltd",
+      "ticker": "HDFCLTD",
+      "sector": "IT",
+      "market_cap_category": "Small",
+      "risk_level": 5,
+      "pe_ratio": 56.5,
+      "returns_1y": 32.39,
+      "market_cap_cr": 1115.2
+    },
+    {
+      "stock_id": "S013",
+      "name": "Adani Bank",
+      "ticker": "ADANIBAN",
+      "sector": "Auto",
+      "market_cap_category": "Large",
+      "risk_level": 3,
+      "pe_ratio": 56.9,
+      "returns_1y": 16.88,
+      "market_cap_cr": 576140.8
+    },
+    {
+      "stock_id": "S014",
+      "name": "JSW Power",
+      "ticker": "JSWPOWER",
+      "sector": "IT",
+      "market_cap_category": "Mid",
+      "risk_level": 4,
+      "pe_ratio": 52.1,
+      "returns_1y": 24.08,
+      "market_cap_cr": 9609.4
+    },
+    {
+      "stock_id": "S015",
+      "name": "Adani Power",
+      "ticker": "ADANIPOW",
+      "sector": "FMCG",
+      "market_cap_category": "Small",
+      "risk_level": 5,
+      "pe_ratio": 20.1,
+      "returns_1y": 13.08,
+      "market_cap_cr": 1400.7
+    },
+    {
+      "stock_id": "S016",
+      "name": "JSW Steel",
+      "ticker": "JSWSTEEL",
+      "sector": "Realty",
+      "market_cap_category": "Large",
+      "risk_level": 3,
+      "pe_ratio": 50.7,
+      "returns_1y": 14.9,
+      "market_cap_cr": 856252.5
+    },
+    {
+      "stock_id": "S017",
+      "name": "Cipla Pharma",
+      "ticker": "CIPLAPHA",
+      "sector": "Metals",
+      "market_cap_category": "Mid",
+      "risk_level": 4,
+      "pe_ratio": 27.9,
+      "returns_1y": 13.14,
+      "market_cap_cr": 28512.4
+    },
+    {
+      "stock_id": "S018",
+      "name": "UltraTech Power",
+      "ticker": "ULTRATEC",
+      "sector": "FMCG",
+      "market_cap_category": "Small",
+      "risk_level": 5,
+      "pe_ratio": 50.8,
+      "returns_1y": -35.07,
+      "market_cap_cr": 807.2
+    },
+    {
+      "stock_id": "S019",
+      "name": "Vedanta Power",
+      "ticker": "VEDANTAP",
+      "sector": "Pharma",
+      "market_cap_category": "Small",
+      "risk_level": 5,
+      "pe_ratio": 33.1,
+      "returns_1y": 51.44,
+      "market_cap_cr": 920.7
+    },
+    {
+      "stock_id": "S020",
+      "name": "Larsen Steel",
+      "ticker": "LARSENST",
+      "sector": "Telecom",
+      "market_cap_category": "Mid",
+      "risk_level": 4,
+      "pe_ratio": 35.1,
+      "returns_1y": 23.88,
+      "market_cap_cr": 11211.8
+    },
+    {
+      "stock_id": "S021",
+      "name": "Larsen Power",
+      "ticker": "LARSENPO",
+      "sector": "Banking",
+      "market_cap_category": "Small",
+      "risk_level": 5,
+      "pe_ratio": 29.2,
+      "returns_1y": 46.99,
+      "market_cap_cr": 1951.8
+    },
+    {
+      "stock_id": "S022",
+      "name": "Infosys Technologies",
+      "ticker": "INFOSYST",
+      "sector": "Metals",
+      "market_cap_category": "Large",
+      "risk_level": 3,
+      "pe_ratio": 41.2,
+      "returns_1y": -2.79,
+      "market_cap_cr": 406363.4
+    },
+    {
+      "stock_id": "S023",
+      "name": "Mahindra Enterprises",
+      "ticker": "MAHINDRA",
+      "sector": "Infrastructure",
+      "market_cap_category": "Mid",
+      "risk_level": 4,
+      "pe_ratio": 17.0,
+      "returns_1y": 27.17,
+      "market_cap_cr": 36237.9
+    },
+    {
+      "stock_id": "S024",
+      "name": "ICICI Corp",
+      "ticker": "ICICICOR",
+      "sector": "Infrastructure",
+      "market_cap_category": "Mid",
+      "risk_level": 4,
+      "pe_ratio": 36.7,
+      "returns_1y": 21.27,
+      "market_cap_cr": 16294.4
+    },
+    {
+      "stock_id": "S025",
+      "name": "Sun Industries",
+      "ticker": "SUNINDUS",
+      "sector": "Auto",
+      "market_cap_category": "Small",
+      "risk_level": 5,
+      "pe_ratio": 17.6,
+      "returns_1y": -8.56,
+      "market_cap_cr": 940.5
+    },
+    {
+      "stock_id": "S026",
+      "name": "SBI Pharma",
+      "ticker": "SBIPHARM",
+      "sector": "IT",
+      "market_cap_category": "Small",
+      "risk_level": 5,
+      "pe_ratio": 47.2,
+      "returns_1y": 24.0,
+      "market_cap_cr": 1233.8
+    },
+    {
+      "stock_id": "S027",
+      "name": "Asian Bank",
+      "ticker": "ASIANBAN",
+      "sector": "Telecom",
+      "market_cap_category": "Large",
+      "risk_level": 3,
+      "pe_ratio": 48.1,
+      "returns_1y": 8.52,
+      "market_cap_cr": 315941.1
+    },
+    {
+      "stock_id": "S028",
+      "name": "Kotak Motors",
+      "ticker": "KOTAKMOT",
+      "sector": "Infrastructure",
+      "market_cap_category": "Small",
+      "risk_level": 5,
+      "pe_ratio": 51.1,
+      "returns_1y": 14.44,
+      "market_cap_cr": 826.3
+    },
+    {
+      "stock_id": "S029",
+      "name": "Sun Steel",
+      "ticker": "SUNSTEEL",
+      "sector": "Metals",
+      "market_cap_category": "Small",
+      "risk_level": 5,
+      "pe_ratio": 49.9,
+      "returns_1y": 10.03,
+      "market_cap_cr": 1162.0
+    },
+    {
+      "stock_id": "S030",
+      "name": "HDFC Power",
+      "ticker": "HDFCPOWE",
+      "sector": "Auto",
+      "market_cap_category": "Large",
+      "risk_level": 3,
+      "pe_ratio": 46.1,
+      "returns_1y": 20.7,
+      "market_cap_cr": 481427.2
+    },
+    {
+      "stock_id": "S031",
+      "name": "Vedanta Industries",
+      "ticker": "VEDANTAI",
+      "sector": "Infrastructure",
+      "market_cap_category": "Large",
+      "risk_level": 3,
+      "pe_ratio": 44.7,
+      "returns_1y": -4.32,
+      "market_cap_cr": 203774.9
+    },
+    {
+      "stock_id": "S032",
+      "name": "Cipla Ltd",
+      "ticker": "CIPLALTD",
+      "sector": "Realty",
+      "market_cap_category": "Mid",
+      "risk_level": 4,
+      "pe_ratio": 27.3,
+      "returns_1y": -14.02,
+      "market_cap_cr": 44215.7
+    },
+    {
+      "stock_id": "S033",
+      "name": "Asian Industries",
+      "ticker": "ASIANIND",
+      "sector": "Banking",
+      "market_cap_category": "Mid",
+      "risk_level": 4,
+      "pe_ratio": 33.1,
+      "returns_1y": 21.25,
+      "market_cap_cr": 110730.8
+    },
+    {
+      "stock_id": "S034",
+      "name": "Mahindra Power",
+      "ticker": "MAHINDRA",
+      "sector": "FMCG",
+      "market_cap_category": "Large",
+      "risk_level": 3,
+      "pe_ratio": 40.6,
+      "returns_1y": 13.09,
+      "market_cap_cr": 290864.6
+    },
+    {
+      "stock_id": "S035",
+      "name": "SBI Technologies",
+      "ticker": "SBITECHN",
+      "sector": "Auto",
+      "market_cap_category": "Mid",
+      "risk_level": 4,
+      "pe_ratio": 44.8,
+      "returns_1y": 21.9,
+      "market_cap_cr": 19028.5
+    },
+    {
+      "stock_id": "S036",
+      "name": "Infosys Bank",
+      "ticker": "INFOSYSB",
+      "sector": "Pharma",
+      "market_cap_category": "Small",
+      "risk_level": 5,
+      "pe_ratio": 17.6,
+      "returns_1y": 74.7,
+      "market_cap_cr": 5304.6
+    },
+    {
+      "stock_id": "S037",
+      "name": "Sun Motors",
+      "ticker": "SUNMOTOR",
+      "sector": "Banking",
+      "market_cap_category": "Mid",
+      "risk_level": 4,
+      "pe_ratio": 31.2,
+      "returns_1y": 21.31,
+      "market_cap_cr": 14473.5
+    },
+    {
+      "stock_id": "S038",
+      "name": "UltraTech Industries",
+      "ticker": "ULTRATEC",
+      "sector": "Energy",
+      "market_cap_category": "Large",
+      "risk_level": 3,
+      "pe_ratio": 56.3,
+      "returns_1y": 2.1,
+      "market_cap_cr": 147173.9
+    },
+    {
+      "stock_id": "S039",
+      "name": "Bajaj Industries",
+      "ticker": "BAJAJIND",
+      "sector": "IT",
+      "market_cap_category": "Small",
+      "risk_level": 5,
+      "pe_ratio": 59.2,
+      "returns_1y": 93.08,
+      "market_cap_cr": 2749.5
+    },
+    {
+      "stock_id": "S040",
+      "name": "ICICI Industries",
+      "ticker": "ICICIIND",
+      "sector": "Realty",
+      "market_cap_category": "Large",
+      "risk_level": 3,
+      "pe_ratio": 30.0,
+      "returns_1y": 10.42,
+      "market_cap_cr": 115669.8
+    },
+    {
+      "stock_id": "S041",
+      "name": "Adani Pharma",
+      "ticker": "ADANIPHA",
+      "sector": "Auto",
+      "market_cap_category": "Mid",
+      "risk_level": 4,
+      "pe_ratio": 50.1,
+      "returns_1y": 33.34,
+      "market_cap_cr": 2086.8
+    },
+    {
+      "stock_id": "S042",
+      "name": "Larsen Technologies",
+      "ticker": "LARSENTE",
+      "sector": "FMCG",
+      "market_cap_category": "Mid",
+      "risk_level": 4,
+      "pe_ratio": 56.0,
+      "returns_1y": -5.22,
+      "market_cap_cr": 4740.7
+    },
+    {
+      "stock_id": "S043",
+      "name": "Adani Ltd",
+      "ticker": "ADANILTD",
+      "sector": "Pharma",
+      "market_cap_category": "Large",
+      "risk_level": 3,
+      "pe_ratio": 46.9,
+      "returns_1y": -3.03,
+      "market_cap_cr": 132112.9
+    },
+    {
+      "stock_id": "S044",
+      "name": "Tata Motors",
+      "ticker": "TATAMOTO",
+      "sector": "Realty",
+      "market_cap_category": "Mid",
+      "risk_level": 4,
+      "pe_ratio": 32.6,
+      "returns_1y": 13.58,
+      "market_cap_cr": 10741.0
+    },
+    {
+      "stock_id": "S045",
+      "name": "SBI Bank",
+      "ticker": "SBIBANK",
+      "sector": "Auto",
+      "market_cap_category": "Large",
+      "risk_level": 3,
+      "pe_ratio": 34.9,
+      "returns_1y": 20.04,
+      "market_cap_cr": 143519.9
+    },
+    {
+      "stock_id": "S046",
+      "name": "HDFC Corp",
+      "ticker": "HDFCCORP",
+      "sector": "Pharma",
+      "market_cap_category": "Small",
+      "risk_level": 5,
+      "pe_ratio": 28.1,
+      "returns_1y": 73.77,
+      "market_cap_cr": 4452.6
+    },
+    {
+      "stock_id": "S047",
+      "name": "Bharti Corp",
+      "ticker": "BHARTICO",
+      "sector": "Realty",
+      "market_cap_category": "Small",
+      "risk_level": 5,
+      "pe_ratio": 10.7,
+      "returns_1y": -6.48,
+      "market_cap_cr": 2733.5
+    },
+    {
+      "stock_id": "S048",
+      "name": "Kotak Steel",
+      "ticker": "KOTAKSTE",
+      "sector": "Infrastructure",
+      "market_cap_category": "Mid",
+      "risk_level": 4,
+      "pe_ratio": 58.1,
+      "returns_1y": 13.16,
+      "market_cap_cr": 5512.5
+    },
+    {
+      "stock_id": "S049",
+      "name": "Bajaj Steel",
+      "ticker": "BAJAJSTE",
+      "sector": "Energy",
+      "market_cap_category": "Large",
+      "risk_level": 3,
+      "pe_ratio": 14.3,
+      "returns_1y": 12.01,
+      "market_cap_cr": 184721.5
+    },
+    {
+      "stock_id": "S050",
+      "name": "Sun Power",
+      "ticker": "SUNPOWER",
+      "sector": "Banking",
+      "market_cap_category": "Mid",
+      "risk_level": 4,
+      "pe_ratio": 39.8,
+      "returns_1y": 18.25,
+      "market_cap_cr": 13104.4
+    },
+    {
+      "stock_id": "S051",
+      "name": "Kotak Power",
+      "ticker": "KOTAKPOW",
+      "sector": "FMCG",
+      "market_cap_category": "Mid",
+      "risk_level": 4,
+      "pe_ratio": 20.5,
+      "returns_1y": 15.93,
+      "market_cap_cr": 15123.9
+    },
+    {
+      "stock_id": "S052",
+      "name": "JSW Motors",
+      "ticker": "JSWMOTOR",
+      "sector": "Realty",
+      "market_cap_category": "Small",
+      "risk_level": 5,
+      "pe_ratio": 19.5,
+      "returns_1y": 21.08,
+      "market_cap_cr": 1170.6
+    },
+    {
+      "stock_id": "S053",
+      "name": "Cipla Bank",
+      "ticker": "CIPLABAN",
+      "sector": "Realty",
+      "market_cap_category": "Large",
+      "risk_level": 3,
+      "pe_ratio": 38.2,
+      "returns_1y": 25.89,
+      "market_cap_cr": 19390.1
+    },
+    {
+      "stock_id": "S054",
+      "name": "Asian Pharma",
+      "ticker": "ASIANPHA",
+      "sector": "Infrastructure",
+      "market_cap_category": "Large",
+      "risk_level": 3,
+      "pe_ratio": 32.0,
+      "returns_1y": 24.46,
+      "market_cap_cr": 30985.9
+    },
+    {
+      "stock_id": "S055",
+      "name": "Vedanta Technologies",
+      "ticker": "VEDANTAT",
+      "sector": "FMCG",
+      "market_cap_category": "Mid",
+      "risk_level": 4,
+      "pe_ratio": 17.8,
+      "returns_1y": 23.22,
+      "market_cap_cr": 10895.9
+    },
+    {
+      "stock_id": "S056",
+      "name": "Infosys Motors",
+      "ticker": "INFOSYSM",
+      "sector": "Realty",
+      "market_cap_category": "Small",
+      "risk_level": 5,
+      "pe_ratio": 57.3,
+      "returns_1y": -17.41,
+      "market_cap_cr": 970.4
+    },
+    {
+      "stock_id": "S057",
+      "name": "Tata Steel",
+      "ticker": "TATASTEE",
+      "sector": "Auto",
+      "market_cap_category": "Large",
+      "risk_level": 3,
+      "pe_ratio": 42.2,
+      "returns_1y": 8.38,
+      "market_cap_cr": 153941.5
+    },
+    {
+      "stock_id": "S058",
+      "name": "UltraTech Enterprises",
+      "ticker": "ULTRATEC",
+      "sector": "Telecom",
+      "market_cap_category": "Mid",
+      "risk_level": 4,
+      "pe_ratio": 17.8,
+      "returns_1y": 34.84,
+      "market_cap_cr": 36947.2
+    },
+    {
+      "stock_id": "S059",
+      "name": "Tata Corp",
+      "ticker": "TATACORP",
+      "sector": "Pharma",
+      "market_cap_category": "Large",
+      "risk_level": 3,
+      "pe_ratio": 11.4,
+      "returns_1y": 4.96,
+      "market_cap_cr": 90884.8
+    },
+    {
+      "stock_id": "S060",
+      "name": "Asian Technologies",
+      "ticker": "ASIANTEC",
+      "sector": "Telecom",
+      "market_cap_category": "Mid",
+      "risk_level": 4,
+      "pe_ratio": 43.6,
+      "returns_1y": 8.56,
+      "market_cap_cr": 19761.7
+    }
+  ],
+  "users": [
+    {
+      "user_id": "U001",
+      "name": "Anjali Reddy",
+      "age": 21,
+      "occupation": "Salaried - Other",
+      "monthly_income": 77381,
+      "risk_score": 0.249,
+      "risk_bucket": "Conservative",
+      "investment_horizon": "5+ years",
+      "existing_investor": false
+    },
+    {
+      "user_id": "U002",
+      "name": "Karan Nair",
+      "age": 39,
+      "occupation": "Salaried - Other",
+      "monthly_income": 33853,
+      "risk_score": 0.856,
+      "risk_bucket": "Growth",
+      "investment_horizon": "5+ years",
+      "existing_investor": true
+    },
+    {
+      "user_id": "U003",
+      "name": "Kavya Menon",
+      "age": 28,
+      "occupation": "Salaried - IT",
+      "monthly_income": 96728,
+      "risk_score": 0.668,
+      "risk_bucket": "Balanced",
+      "investment_horizon": "1-3 years",
+      "existing_investor": true
+    },
+    {
+      "user_id": "U004",
+      "name": "Kavya Bose",
+      "age": 26,
+      "occupation": "Retired",
+      "monthly_income": 33905,
+      "risk_score": 0.746,
+      "risk_bucket": "Balanced",
+      "investment_horizon": "1-3 years",
+      "existing_investor": true
+    },
+    {
+      "user_id": "U005",
+      "name": "Varun Nair",
+      "age": 34,
+      "occupation": "Salaried - Other",
+      "monthly_income": 28982,
+      "risk_score": 0.421,
+      "risk_bucket": "Moderate",
+      "investment_horizon": "3-5 years",
+      "existing_investor": false
+    },
+    {
+      "user_id": "U006",
+      "name": "Meera Sharma",
+      "age": 21,
+      "occupation": "Salaried - Other",
+      "monthly_income": 36020,
+      "risk_score": 0.53,
+      "risk_bucket": "Balanced",
+      "investment_horizon": "1-3 years",
+      "existing_investor": true
+    },
+    {
+      "user_id": "U007",
+      "name": "Vivaan Menon",
+      "age": 21,
+      "occupation": "Freelancer",
+      "monthly_income": 73350,
+      "risk_score": 0.774,
+      "risk_bucket": "Growth",
+      "investment_horizon": "1-3 years",
+      "existing_investor": true
+    },
+    {
+      "user_id": "U008",
+      "name": "Nikhil Bose",
+      "age": 43,
+      "occupation": "Salaried - Other",
+      "monthly_income": 20000,
+      "risk_score": 0.436,
+      "risk_bucket": "Moderate",
+      "investment_horizon": "1-3 years",
+      "existing_investor": true
+    },
+    {
+      "user_id": "U009",
+      "name": "Pooja Bose",
+      "age": 33,
+      "occupation": "Salaried - IT",
+      "monthly_income": 51618,
+      "risk_score": 0.764,
+      "risk_bucket": "Growth",
+      "investment_horizon": "< 1 year",
+      "existing_investor": true
+    },
+    {
+      "user_id": "U010",
+      "name": "Vivaan Gupta",
+      "age": 40,
+      "occupation": "Business Owner",
+      "monthly_income": 53344,
+      "risk_score": 0.9,
+      "risk_bucket": "Growth",
+      "investment_horizon": "3-5 years",
+      "existing_investor": true
+    },
+    {
+      "user_id": "U011",
+      "name": "Aditi Das",
+      "age": 28,
+      "occupation": "Retired",
+      "monthly_income": 52655,
+      "risk_score": 0.0,
+      "risk_bucket": "Conservative",
+      "investment_horizon": "5+ years",
+      "existing_investor": true
+    },
+    {
+      "user_id": "U012",
+      "name": "Tanvi Sharma",
+      "age": 51,
+      "occupation": "Business Owner",
+      "monthly_income": 75820,
+      "risk_score": 0.108,
+      "risk_bucket": "Conservative",
+      "investment_horizon": "< 1 year",
+      "existing_investor": true
+    },
+    {
+      "user_id": "U013",
+      "name": "Meera Verma",
+      "age": 33,
+      "occupation": "Salaried - Finance",
+      "monthly_income": 49414,
+      "risk_score": 1.0,
+      "risk_bucket": "Aggressive",
+      "investment_horizon": "1-3 years",
+      "existing_investor": false
+    },
+    {
+      "user_id": "U014",
+      "name": "Neha Chatterjee",
+      "age": 21,
+      "occupation": "Salaried - Finance",
+      "monthly_income": 56977,
+      "risk_score": 0.522,
+      "risk_bucket": "Balanced",
+      "investment_horizon": "< 1 year",
+      "existing_investor": true
+    },
+    {
+      "user_id": "U015",
+      "name": "Kabir Bose",
+      "age": 33,
+      "occupation": "Student",
+      "monthly_income": 33216,
+      "risk_score": 0.274,
+      "risk_bucket": "Moderate",
+      "investment_horizon": "1-3 years",
+      "existing_investor": false
+    },
+    {
+      "user_id": "U016",
+      "name": "Neha Gupta",
+      "age": 50,
+      "occupation": "Business Owner",
+      "monthly_income": 77559,
+      "risk_score": 0.93,
+      "risk_bucket": "Growth",
+      "investment_horizon": "3-5 years",
+      "existing_investor": false
+    },
+    {
+      "user_id": "U017",
+      "name": "Kavya Verma",
+      "age": 34,
+      "occupation": "Student",
+      "monthly_income": 88552,
+      "risk_score": 0.601,
+      "risk_bucket": "Balanced",
+      "investment_horizon": "< 1 year",
+      "existing_investor": true
+    },
+    {
+      "user_id": "U018",
+      "name": "Karan Rao",
+      "age": 22,
+      "occupation": "Retired",
+      "monthly_income": 69922,
+      "risk_score": 0.764,
+      "risk_bucket": "Growth",
+      "investment_horizon": "1-3 years",
+      "existing_investor": true
+    },
+    {
+      "user_id": "U019",
+      "name": "Anjali Verma",
+      "age": 21,
+      "occupation": "Salaried - IT",
+      "monthly_income": 28572,
+      "risk_score": 0.669,
+      "risk_bucket": "Balanced",
+      "investment_horizon": "1-3 years",
+      "existing_investor": true
+    },
+    {
+      "user_id": "U020",
+      "name": "Aryan Chatterjee",
+      "age": 28,
+      "occupation": "Salaried - Finance",
+      "monthly_income": 59830,
+      "risk_score": 0.703,
+      "risk_bucket": "Balanced",
+      "investment_horizon": "< 1 year",
+      "existing_investor": true
+    },
+    {
+      "user_id": "U021",
+      "name": "Meera Malhotra",
+      "age": 26,
+      "occupation": "Business Owner",
+      "monthly_income": 26813,
+      "risk_score": 0.539,
+      "risk_bucket": "Balanced",
+      "investment_horizon": "3-5 years",
+      "existing_investor": true
+    },
+    {
+      "user_id": "U022",
+      "name": "Sneha Pillai",
+      "age": 44,
+      "occupation": "Salaried - Other",
+      "monthly_income": 34825,
+      "risk_score": 0.297,
+      "risk_bucket": "Moderate",
+      "investment_horizon": "5+ years",
+      "existing_investor": true
+    },
+    {
+      "user_id": "U023",
+      "name": "Anjali Nair",
+      "age": 23,
+      "occupation": "Salaried - Other",
+      "monthly_income": 202033,
+      "risk_score": 0.814,
+      "risk_bucket": "Growth",
+      "investment_horizon": "1-3 years",
+      "existing_investor": true
+    },
+    {
+      "user_id": "U024",
+      "name": "Varun Iyer",
+      "age": 32,
+      "occupation": "Freelancer",
+      "monthly_income": 59249,
+      "risk_score": 0.215,
+      "risk_bucket": "Conservative",
+      "investment_horizon": "1-3 years",
+      "existing_investor": false
+    },
+    {
+      "user_id": "U025",
+      "name": "Meera Chatterjee",
+      "age": 26,
+      "occupation": "Salaried - IT",
+      "monthly_income": 57584,
+      "risk_score": 0.646,
+      "risk_bucket": "Balanced",
+      "investment_horizon": "< 1 year",
+      "existing_investor": true
+    },
+    {
+      "user_id": "U026",
+      "name": "Rahul Malhotra",
+      "age": 21,
+      "occupation": "Freelancer",
+      "monthly_income": 88748,
+      "risk_score": 0.921,
+      "risk_bucket": "Growth",
+      "investment_horizon": "3-5 years",
+      "existing_investor": true
+    },
+    {
+      "user_id": "U027",
+      "name": "Siddharth Menon",
+      "age": 31,
+      "occupation": "Salaried - Other",
+      "monthly_income": 131321,
+      "risk_score": 0.688,
+      "risk_bucket": "Balanced",
+      "investment_horizon": "5+ years",
+      "existing_investor": false
+    },
+    {
+      "user_id": "U028",
+      "name": "Vivaan Pillai",
+      "age": 21,
+      "occupation": "Business Owner",
+      "monthly_income": 44347,
+      "risk_score": 1.0,
+      "risk_bucket": "Aggressive",
+      "investment_horizon": "5+ years",
+      "existing_investor": true
+    },
+    {
+      "user_id": "U029",
+      "name": "Aarav Verma",
+      "age": 37,
+      "occupation": "Business Owner",
+      "monthly_income": 88104,
+      "risk_score": 0.372,
+      "risk_bucket": "Moderate",
+      "investment_horizon": "3-5 years",
+      "existing_investor": true
+    },
+    {
+      "user_id": "U030",
+      "name": "Tanvi Joshi",
+      "age": 21,
+      "occupation": "Salaried - Finance",
+      "monthly_income": 95996,
+      "risk_score": 0.342,
+      "risk_bucket": "Moderate",
+      "investment_horizon": "< 1 year",
+      "existing_investor": false
+    },
+    {
+      "user_id": "U031",
+      "name": "Priya Bose",
+      "age": 31,
+      "occupation": "Salaried - Other",
+      "monthly_income": 73890,
+      "risk_score": 0.185,
+      "risk_bucket": "Conservative",
+      "investment_horizon": "< 1 year",
+      "existing_investor": false
+    },
+    {
+      "user_id": "U032",
+      "name": "Priya Chatterjee",
+      "age": 41,
+      "occupation": "Student",
+      "monthly_income": 57515,
+      "risk_score": 0.732,
+      "risk_bucket": "Balanced",
+      "investment_horizon": "5+ years",
+      "existing_investor": false
+    },
+    {
+      "user_id": "U033",
+      "name": "Pooja Reddy",
+      "age": 37,
+      "occupation": "Business Owner",
+      "monthly_income": 93003,
+      "risk_score": 0.792,
+      "risk_bucket": "Growth",
+      "investment_horizon": "5+ years",
+      "existing_investor": false
+    },
+    {
+      "user_id": "U034",
+      "name": "Ananya Joshi",
+      "age": 27,
+      "occupation": "Business Owner",
+      "monthly_income": 74344,
+      "risk_score": 0.739,
+      "risk_bucket": "Balanced",
+      "investment_horizon": "3-5 years",
+      "existing_investor": true
+    },
+    {
+      "user_id": "U035",
+      "name": "Pooja Gupta",
+      "age": 35,
+      "occupation": "Salaried - Finance",
+      "monthly_income": 60104,
+      "risk_score": 0.281,
+      "risk_bucket": "Moderate",
+      "investment_horizon": "3-5 years",
+      "existing_investor": true
+    },
+    {
+      "user_id": "U036",
+      "name": "Anjali Sharma",
+      "age": 39,
+      "occupation": "Freelancer",
+      "monthly_income": 57926,
+      "risk_score": 0.034,
+      "risk_bucket": "Conservative",
+      "investment_horizon": "5+ years",
+      "existing_investor": false
+    },
+    {
+      "user_id": "U037",
+      "name": "Arjun Verma",
+      "age": 22,
+      "occupation": "Business Owner",
+      "monthly_income": 91727,
+      "risk_score": 1.0,
+      "risk_bucket": "Aggressive",
+      "investment_horizon": "< 1 year",
+      "existing_investor": true
+    },
+    {
+      "user_id": "U038",
+      "name": "Varun Sharma",
+      "age": 42,
+      "occupation": "Retired",
+      "monthly_income": 52041,
+      "risk_score": 0.545,
+      "risk_bucket": "Balanced",
+      "investment_horizon": "5+ years",
+      "existing_investor": false
+    },
+    {
+      "user_id": "U039",
+      "name": "Rohan Menon",
+      "age": 40,
+      "occupation": "Freelancer",
+      "monthly_income": 41855,
+      "risk_score": 0.037,
+      "risk_bucket": "Conservative",
+      "investment_horizon": "5+ years",
+      "existing_investor": true
+    },
+    {
+      "user_id": "U040",
+      "name": "Nikhil Sharma",
+      "age": 21,
+      "occupation": "Salaried - Other",
+      "monthly_income": 69599,
+      "risk_score": 0.271,
+      "risk_bucket": "Moderate",
+      "investment_horizon": "5+ years",
+      "existing_investor": true
+    },
+    {
+      "user_id": "U041",
+      "name": "Simran Gupta",
+      "age": 33,
+      "occupation": "Salaried - Finance",
+      "monthly_income": 42643,
+      "risk_score": 0.44,
+      "risk_bucket": "Moderate",
+      "investment_horizon": "3-5 years",
+      "existing_investor": true
+    },
+    {
+      "user_id": "U042",
+      "name": "Dev Chatterjee",
+      "age": 29,
+      "occupation": "Business Owner",
+      "monthly_income": 57959,
+      "risk_score": 0.415,
+      "risk_bucket": "Moderate",
+      "investment_horizon": "5+ years",
+      "existing_investor": true
+    },
+    {
+      "user_id": "U043",
+      "name": "Meera Menon",
+      "age": 45,
+      "occupation": "Retired",
+      "monthly_income": 59771,
+      "risk_score": 0.019,
+      "risk_bucket": "Conservative",
+      "investment_horizon": "1-3 years",
+      "existing_investor": true
+    },
+    {
+      "user_id": "U044",
+      "name": "Varun Pillai",
+      "age": 39,
+      "occupation": "Salaried - IT",
+      "monthly_income": 62412,
+      "risk_score": 0.616,
+      "risk_bucket": "Balanced",
+      "investment_horizon": "5+ years",
+      "existing_investor": true
+    },
+    {
+      "user_id": "U045",
+      "name": "Dev Joshi",
+      "age": 32,
+      "occupation": "Salaried - IT",
+      "monthly_income": 92294,
+      "risk_score": 0.939,
+      "risk_bucket": "Growth",
+      "investment_horizon": "5+ years",
+      "existing_investor": false
+    }
+  ],
+  "interactions": [
+    {
+      "user_id": "U001",
+      "item_id": "F009",
+      "item_type": "fund",
+      "action": "sip_active",
+      "amount": 5000,
+      "user_rating": null
+    },
+    {
+      "user_id": "U001",
+      "item_id": "F003",
+      "item_type": "fund",
+      "action": "watchlisted",
+      "amount": 0,
+      "user_rating": null
+    },
+    {
+      "user_id": "U001",
+      "item_id": "F008",
+      "item_type": "fund",
+      "action": "watchlisted",
+      "amount": 0,
+      "user_rating": null
+    },
+    {
+      "user_id": "U001",
+      "item_id": "F011",
+      "item_type": "fund",
+      "action": "invested",
+      "amount": 5000,
+      "user_rating": 3
+    },
+    {
+      "user_id": "U001",
+      "item_id": "F005",
+      "item_type": "fund",
+      "action": "invested",
+      "amount": 25000,
+      "user_rating": null
+    },
+    {
+      "user_id": "U001",
+      "item_id": "F058",
+      "item_type": "fund",
+      "action": "invested",
+      "amount": 1000,
+      "user_rating": 4
+    },
+    {
+      "user_id": "U002",
+      "item_id": "S023",
+      "item_type": "stock",
+      "action": "invested",
+      "amount": 2000,
+      "user_rating": null
+    },
+    {
+      "user_id": "U002",
+      "item_id": "S006",
+      "item_type": "stock",
+      "action": "watchlisted",
+      "amount": 0,
+      "user_rating": null
+    },
+    {
+      "user_id": "U002",
+      "item_id": "F047",
+      "item_type": "fund",
+      "action": "watchlisted",
+      "amount": 0,
+      "user_rating": null
+    },
+    {
+      "user_id": "U002",
+      "item_id": "S049",
+      "item_type": "stock",
+      "action": "invested",
+      "amount": 25000,
+      "user_rating": 4
+    },
+    {
+      "user_id": "U002",
+      "item_id": "F009",
+      "item_type": "fund",
+      "action": "watchlisted",
+      "amount": 0,
+      "user_rating": null
+    },
+    {
+      "user_id": "U002",
+      "item_id": "F020",
+      "item_type": "fund",
+      "action": "watchlisted",
+      "amount": 0,
+      "user_rating": null
+    },
+    {
+      "user_id": "U002",
+      "item_id": "F066",
+      "item_type": "fund",
+      "action": "invested",
+      "amount": 5000,
+      "user_rating": 4
+    },
+    {
+      "user_id": "U003",
+      "item_id": "S010",
+      "item_type": "stock",
+      "action": "watchlisted",
+      "amount": 0,
+      "user_rating": null
+    },
+    {
+      "user_id": "U003",
+      "item_id": "F084",
+      "item_type": "fund",
+      "action": "watchlisted",
+      "amount": 0,
+      "user_rating": null
+    },
+    {
+      "user_id": "U003",
+      "item_id": "F036",
+      "item_type": "fund",
+      "action": "watchlisted",
+      "amount": 0,
+      "user_rating": null
+    },
+    {
+      "user_id": "U003",
+      "item_id": "F028",
+      "item_type": "fund",
+      "action": "invested",
+      "amount": 1000,
+      "user_rating": 2
+    },
+    {
+      "user_id": "U003",
+      "item_id": "F029",
+      "item_type": "fund",
+      "action": "watchlisted",
+      "amount": 0,
+      "user_rating": null
+    },
+    {
+      "user_id": "U003",
+      "item_id": "S034",
+      "item_type": "stock",
+      "action": "watchlisted",
+      "amount": 0,
+      "user_rating": null
+    },
+    {
+      "user_id": "U003",
+      "item_id": "F057",
+      "item_type": "fund",
+      "action": "sip_active",
+      "amount": 10000,
+      "user_rating": null
+    },
+    {
+      "user_id": "U003",
+      "item_id": "F010",
+      "item_type": "fund",
+      "action": "invested",
+      "amount": 500,
+      "user_rating": 5
+    },
+    {
+      "user_id": "U003",
+      "item_id": "S057",
+      "item_type": "stock",
+      "action": "sip_active",
+      "amount": 25000,
+      "user_rating": null
+    },
+    {
+      "user_id": "U004",
+      "item_id": "F016",
+      "item_type": "fund",
+      "action": "sip_active",
+      "amount": 10000,
+      "user_rating": null
+    },
+    {
+      "user_id": "U004",
+      "item_id": "S045",
+      "item_type": "stock",
+      "action": "watchlisted",
+      "amount": 0,
+      "user_rating": null
+    },
+    {
+      "user_id": "U004",
+      "item_id": "F043",
+      "item_type": "fund",
+      "action": "invested",
+      "amount": 5000,
+      "user_rating": 2
+    },
+    {
+      "user_id": "U004",
+      "item_id": "F022",
+      "item_type": "fund",
+      "action": "watchlisted",
+      "amount": 0,
+      "user_rating": null
+    },
+    {
+      "user_id": "U004",
+      "item_id": "S048",
+      "item_type": "stock",
+      "action": "sip_active",
+      "amount": 25000,
+      "user_rating": null
+    },
+    {
+      "user_id": "U004",
+      "item_id": "S055",
+      "item_type": "stock",
+      "action": "watchlisted",
+      "amount": 0,
+      "user_rating": null
+    },
+    {
+      "user_id": "U004",
+      "item_id": "S044",
+      "item_type": "stock",
+      "action": "invested",
+      "amount": 5000,
+      "user_rating": 3
+    },
+    {
+      "user_id": "U004",
+      "item_id": "S038",
+      "item_type": "stock",
+      "action": "invested",
+      "amount": 500,
+      "user_rating": null
+    },
+    {
+      "user_id": "U005",
+      "item_id": "F061",
+      "item_type": "fund",
+      "action": "sip_active",
+      "amount": 2000,
+      "user_rating": null
+    },
+    {
+      "user_id": "U005",
+      "item_id": "F058",
+      "item_type": "fund",
+      "action": "watchlisted",
+      "amount": 0,
+      "user_rating": null
+    },
+    {
+      "user_id": "U005",
+      "item_id": "F076",
+      "item_type": "fund",
+      "action": "watchlisted",
+      "amount": 0,
+      "user_rating": null
+    },
+    {
+      "user_id": "U005",
+      "item_id": "S030",
+      "item_type": "stock",
+      "action": "sip_active",
+      "amount": 5000,
+      "user_rating": null
+    },
+    {
+      "user_id": "U005",
+      "item_id": "F044",
+      "item_type": "fund",
+      "action": "watchlisted",
+      "amount": 0,
+      "user_rating": null
+    },
+    {
+      "user_id": "U006",
+      "item_id": "F056",
+      "item_type": "fund",
+      "action": "invested",
+      "amount": 1000,
+      "user_rating": null
+    },
+    {
+      "user_id": "U006",
+      "item_id": "F038",
+      "item_type": "fund",
+      "action": "watchlisted",
+      "amount": 0,
+      "user_rating": null
+    },
+    {
+      "user_id": "U006",
+      "item_id": "S053",
+      "item_type": "stock",
+      "action": "watchlisted",
+      "amount": 0,
+      "user_rating": null
+    },
+    {
+      "user_id": "U006",
+      "item_id": "F017",
+      "item_type": "fund",
+      "action": "sip_active",
+      "amount": 1000,
+      "user_rating": null
+    },
+    {
+      "user_id": "U006",
+      "item_id": "S023",
+      "item_type": "stock",
+      "action": "invested",
+      "amount": 25000,
+      "user_rating": 4
+    },
+    {
+      "user_id": "U006",
+      "item_id": "F029",
+      "item_type": "fund",
+      "action": "invested",
+      "amount": 1000,
+      "user_rating": 2
+    },
+    {
+      "user_id": "U006",
+      "item_id": "S046",
+      "item_type": "stock",
+      "action": "sip_active",
+      "amount": 10000,
+      "user_rating": null
+    },
+    {
+      "user_id": "U006",
+      "item_id": "S057",
+      "item_type": "stock",
+      "action": "watchlisted",
+      "amount": 0,
+      "user_rating": null
+    },
+    {
+      "user_id": "U006",
+      "item_id": "F077",
+      "item_type": "fund",
+      "action": "invested",
+      "amount": 25000,
+      "user_rating": null
+    },
+    {
+      "user_id": "U006",
+      "item_id": "S045",
+      "item_type": "stock",
+      "action": "invested",
+      "amount": 500,
+      "user_rating": null
+    },
+    {
+      "user_id": "U006",
+      "item_id": "F001",
+      "item_type": "fund",
+      "action": "watchlisted",
+      "amount": 0,
+      "user_rating": null
+    },
+    {
+      "user_id": "U006",
+      "item_id": "S040",
+      "item_type": "stock",
+      "action": "invested",
+      "amount": 5000,
+      "user_rating": 4
+    },
+    {
+      "user_id": "U007",
+      "item_id": "S052",
+      "item_type": "stock",
+      "action": "watchlisted",
+      "amount": 0,
+      "user_rating": null
+    },
+    {
+      "user_id": "U007",
+      "item_id": "S020",
+      "item_type": "stock",
+      "action": "watchlisted",
+      "amount": 0,
+      "user_rating": null
+    },
+    {
+      "user_id": "U007",
+      "item_id": "F012",
+      "item_type": "fund",
+      "action": "watchlisted",
+      "amount": 0,
+      "user_rating": null
+    },
+    {
+      "user_id": "U007",
+      "item_id": "F049",
+      "item_type": "fund",
+      "action": "watchlisted",
+      "amount": 0,
+      "user_rating": null
+    },
+    {
+      "user_id": "U007",
+      "item_id": "S023",
+      "item_type": "stock",
+      "action": "invested",
+      "amount": 10000,
+      "user_rating": null
+    },
+    {
+      "user_id": "U007",
+      "item_id": "S006",
+      "item_type": "stock",
+      "action": "invested",
+      "amount": 10000,
+      "user_rating": 3
+    },
+    {
+      "user_id": "U007",
+      "item_id": "F059",
+      "item_type": "fund",
+      "action": "invested",
+      "amount": 25000,
+      "user_rating": 5
+    },
+    {
+      "user_id": "U007",
+      "item_id": "S011",
+      "item_type": "stock",
+      "action": "invested",
+      "amount": 1000,
+      "user_rating": null
+    },
+    {
+      "user_id": "U007",
+      "item_id": "F007",
+      "item_type": "fund",
+      "action": "invested",
+      "amount": 1000,
+      "user_rating": null
+    },
+    {
+      "user_id": "U008",
+      "item_id": "F054",
+      "item_type": "fund",
+      "action": "sip_active",
+      "amount": 25000,
+      "user_rating": null
+    },
+    {
+      "user_id": "U008",
+      "item_id": "F057",
+      "item_type": "fund",
+      "action": "invested",
+      "amount": 2000,
+      "user_rating": null
+    },
+    {
+      "user_id": "U008",
+      "item_id": "F017",
+      "item_type": "fund",
+      "action": "watchlisted",
+      "amount": 0,
+      "user_rating": null
+    },
+    {
+      "user_id": "U008",
+      "item_id": "S023",
+      "item_type": "stock",
+      "action": "invested",
+      "amount": 5000,
+      "user_rating": null
+    },
+    {
+      "user_id": "U008",
+      "item_id": "F090",
+      "item_type": "fund",
+      "action": "watchlisted",
+      "amount": 0,
+      "user_rating": null
+    },
+    {
+      "user_id": "U008",
+      "item_id": "F021",
+      "item_type": "fund",
+      "action": "watchlisted",
+      "amount": 0,
+      "user_rating": null
+    },
+    {
+      "user_id": "U008",
+      "item_id": "F008",
+      "item_type": "fund",
+      "action": "watchlisted",
+      "amount": 0,
+      "user_rating": null
+    },
+    {
+      "user_id": "U009",
+      "item_id": "F067",
+      "item_type": "fund",
+      "action": "invested",
+      "amount": 500,
+      "user_rating": null
+    },
+    {
+      "user_id": "U009",
+      "item_id": "F046",
+      "item_type": "fund",
+      "action": "watchlisted",
+      "amount": 0,
+      "user_rating": null
+    },
+    {
+      "user_id": "U009",
+      "item_id": "S059",
+      "item_type": "stock",
+      "action": "sip_active",
+      "amount": 5000,
+      "user_rating": null
+    },
+    {
+      "user_id": "U009",
+      "item_id": "F069",
+      "item_type": "fund",
+      "action": "sip_active",
+      "amount": 5000,
+      "user_rating": null
+    },
+    {
+      "user_id": "U009",
+      "item_id": "S048",
+      "item_type": "stock",
+      "action": "invested",
+      "amount": 500,
+      "user_rating": 3
+    },
+    {
+      "user_id": "U009",
+      "item_id": "F040",
+      "item_type": "fund",
+      "action": "invested",
+      "amount": 2000,
+      "user_rating": 4
+    },
+    {
+      "user_id": "U009",
+      "item_id": "F036",
+      "item_type": "fund",
+      "action": "sip_active",
+      "amount": 5000,
+      "user_rating": null
+    },
+    {
+      "user_id": "U010",
+      "item_id": "S050",
+      "item_type": "stock",
+      "action": "sip_active",
+      "amount": 500,
+      "user_rating": null
+    },
+    {
+      "user_id": "U010",
+      "item_id": "S057",
+      "item_type": "stock",
+      "action": "invested",
+      "amount": 25000,
+      "user_rating": 4
+    },
+    {
+      "user_id": "U010",
+      "item_id": "F033",
+      "item_type": "fund",
+      "action": "sip_active",
+      "amount": 10000,
+      "user_rating": null
+    },
+    {
+      "user_id": "U010",
+      "item_id": "F076",
+      "item_type": "fund",
+      "action": "sip_active",
+      "amount": 2000,
+      "user_rating": null
+    },
+    {
+      "user_id": "U010",
+      "item_id": "F001",
+      "item_type": "fund",
+      "action": "watchlisted",
+      "amount": 0,
+      "user_rating": null
+    },
+    {
+      "user_id": "U010",
+      "item_id": "S008",
+      "item_type": "stock",
+      "action": "invested",
+      "amount": 10000,
+      "user_rating": null
+    },
+    {
+      "user_id": "U010",
+      "item_id": "S010",
+      "item_type": "stock",
+      "action": "invested",
+      "amount": 1000,
+      "user_rating": 5
+    },
+    {
+      "user_id": "U010",
+      "item_id": "F043",
+      "item_type": "fund",
+      "action": "invested",
+      "amount": 10000,
+      "user_rating": null
+    },
+    {
+      "user_id": "U011",
+      "item_id": "S025",
+      "item_type": "stock",
+      "action": "invested",
+      "amount": 5000,
+      "user_rating": null
+    },
+    {
+      "user_id": "U011",
+      "item_id": "F090",
+      "item_type": "fund",
+      "action": "invested",
+      "amount": 500,
+      "user_rating": null
+    },
+    {
+      "user_id": "U011",
+      "item_id": "F005",
+      "item_type": "fund",
+      "action": "invested",
+      "amount": 10000,
+      "user_rating": 3
+    },
+    {
+      "user_id": "U011",
+      "item_id": "F058",
+      "item_type": "fund",
+      "action": "invested",
+      "amount": 10000,
+      "user_rating": 3
+    },
+    {
+      "user_id": "U011",
+      "item_id": "F014",
+      "item_type": "fund",
+      "action": "invested",
+      "amount": 1000,
+      "user_rating": null
+    },
+    {
+      "user_id": "U011",
+      "item_id": "F025",
+      "item_type": "fund",
+      "action": "sip_active",
+      "amount": 1000,
+      "user_rating": null
+    },
+    {
+      "user_id": "U011",
+      "item_id": "S057",
+      "item_type": "stock",
+      "action": "watchlisted",
+      "amount": 0,
+      "user_rating": null
+    },
+    {
+      "user_id": "U011",
+      "item_id": "F015",
+      "item_type": "fund",
+      "action": "invested",
+      "amount": 5000,
+      "user_rating": 3
+    },
+    {
+      "user_id": "U011",
+      "item_id": "F061",
+      "item_type": "fund",
+      "action": "invested",
+      "amount": 2000,
+      "user_rating": 5
+    },
+    {
+      "user_id": "U011",
+      "item_id": "F080",
+      "item_type": "fund",
+      "action": "sip_active",
+      "amount": 500,
+      "user_rating": null
+    },
+    {
+      "user_id": "U011",
+      "item_id": "F087",
+      "item_type": "fund",
+      "action": "watchlisted",
+      "amount": 0,
+      "user_rating": null
+    },
+    {
+      "user_id": "U011",
+      "item_id": "F068",
+      "item_type": "fund",
+      "action": "watchlisted",
+      "amount": 0,
+      "user_rating": null
+    },
+    {
+      "user_id": "U012",
+      "item_id": "F080",
+      "item_type": "fund",
+      "action": "sip_active",
+      "amount": 25000,
+      "user_rating": null
+    },
+    {
+      "user_id": "U012",
+      "item_id": "S001",
+      "item_type": "stock",
+      "action": "watchlisted",
+      "amount": 0,
+      "user_rating": null
+    },
+    {
+      "user_id": "U012",
+      "item_id": "F078",
+      "item_type": "fund",
+      "action": "sip_active",
+      "amount": 2000,
+      "user_rating": null
+    },
+    {
+      "user_id": "U012",
+      "item_id": "F058",
+      "item_type": "fund",
+      "action": "invested",
+      "amount": 5000,
+      "user_rating": 5
+    },
+    {
+      "user_id": "U012",
+      "item_id": "F085",
+      "item_type": "fund",
+      "action": "watchlisted",
+      "amount": 0,
+      "user_rating": null
+    },
+    {
+      "user_id": "U013",
+      "item_id": "F011",
+      "item_type": "fund",
+      "action": "watchlisted",
+      "amount": 0,
+      "user_rating": null
+    },
+    {
+      "user_id": "U013",
+      "item_id": "F041",
+      "item_type": "fund",
+      "action": "invested",
+      "amount": 10000,
+      "user_rating": null
+    },
+    {
+      "user_id": "U013",
+      "item_id": "F031",
+      "item_type": "fund",
+      "action": "watchlisted",
+      "amount": 0,
+      "user_rating": null
+    },
+    {
+      "user_id": "U013",
+      "item_id": "S039",
+      "item_type": "stock",
+      "action": "sip_active",
+      "amount": 2000,
+      "user_rating": null
+    },
+    {
+      "user_id": "U013",
+      "item_id": "F038",
+      "item_type": "fund",
+      "action": "invested",
+      "amount": 25000,
+      "user_rating": 3
+    },
+    {
+      "user_id": "U014",
+      "item_id": "S058",
+      "item_type": "stock",
+      "action": "invested",
+      "amount": 5000,
+      "user_rating": null
+    },
+    {
+      "user_id": "U014",
+      "item_id": "S016",
+      "item_type": "stock",
+      "action": "watchlisted",
+      "amount": 0,
+      "user_rating": null
+    },
+    {
+      "user_id": "U014",
+      "item_id": "F031",
+      "item_type": "fund",
+      "action": "watchlisted",
+      "amount": 0,
+      "user_rating": null
+    },
+    {
+      "user_id": "U014",
+      "item_id": "S022",
+      "item_type": "stock",
+      "action": "sip_active",
+      "amount": 1000,
+      "user_rating": null
+    },
+    {
+      "user_id": "U014",
+      "item_id": "F013",
+      "item_type": "fund",
+      "action": "watchlisted",
+      "amount": 0,
+      "user_rating": null
+    },
+    {
+      "user_id": "U014",
+      "item_id": "F006",
+      "item_type": "fund",
+      "action": "sip_active",
+      "amount": 5000,
+      "user_rating": null
+    },
+    {
+      "user_id": "U014",
+      "item_id": "F041",
+      "item_type": "fund",
+      "action": "invested",
+      "amount": 1000,
+      "user_rating": null
+    },
+    {
+      "user_id": "U014",
+      "item_id": "F076",
+      "item_type": "fund",
+      "action": "sip_active",
+      "amount": 1000,
+      "user_rating": null
+    },
+    {
+      "user_id": "U014",
+      "item_id": "S045",
+      "item_type": "stock",
+      "action": "sip_active",
+      "amount": 5000,
+      "user_rating": null
+    },
+    {
+      "user_id": "U014",
+      "item_id": "S028",
+      "item_type": "stock",
+      "action": "invested",
+      "amount": 1000,
+      "user_rating": null
+    },
+    {
+      "user_id": "U014",
+      "item_id": "S030",
+      "item_type": "stock",
+      "action": "watchlisted",
+      "amount": 0,
+      "user_rating": null
+    },
+    {
+      "user_id": "U015",
+      "item_id": "S045",
+      "item_type": "stock",
+      "action": "watchlisted",
+      "amount": 0,
+      "user_rating": null
+    },
+    {
+      "user_id": "U015",
+      "item_id": "F021",
+      "item_type": "fund",
+      "action": "invested",
+      "amount": 500,
+      "user_rating": 4
+    },
+    {
+      "user_id": "U015",
+      "item_id": "F080",
+      "item_type": "fund",
+      "action": "sip_active",
+      "amount": 25000,
+      "user_rating": null
+    },
+    {
+      "user_id": "U015",
+      "item_id": "S009",
+      "item_type": "stock",
+      "action": "sip_active",
+      "amount": 500,
+      "user_rating": null
+    },
+    {
+      "user_id": "U015",
+      "item_id": "F014",
+      "item_type": "fund",
+      "action": "watchlisted",
+      "amount": 0,
+      "user_rating": null
+    },
+    {
+      "user_id": "U015",
+      "item_id": "S004",
+      "item_type": "stock",
+      "action": "invested",
+      "amount": 10000,
+      "user_rating": null
+    },
+    {
+      "user_id": "U015",
+      "item_id": "S044",
+      "item_type": "stock",
+      "action": "invested",
+      "amount": 500,
+      "user_rating": 3
+    },
+    {
+      "user_id": "U015",
+      "item_id": "F018",
+      "item_type": "fund",
+      "action": "watchlisted",
+      "amount": 0,
+      "user_rating": null
+    },
+    {
+      "user_id": "U015",
+      "item_id": "F025",
+      "item_type": "fund",
+      "action": "sip_active",
+      "amount": 2000,
+      "user_rating": null
+    },
+    {
+      "user_id": "U015",
+      "item_id": "S056",
+      "item_type": "stock",
+      "action": "watchlisted",
+      "amount": 0,
+      "user_rating": null
+    },
+    {
+      "user_id": "U015",
+      "item_id": "S034",
+      "item_type": "stock",
+      "action": "invested",
+      "amount": 1000,
+      "user_rating": null
+    },
+    {
+      "user_id": "U015",
+      "item_id": "F061",
+      "item_type": "fund",
+      "action": "invested",
+      "amount": 5000,
+      "user_rating": 4
+    },
+    {
+      "user_id": "U015",
+      "item_id": "F029",
+      "item_type": "fund",
+      "action": "watchlisted",
+      "amount": 0,
+      "user_rating": null
+    },
+    {
+      "user_id": "U016",
+      "item_id": "F075",
+      "item_type": "fund",
+      "action": "invested",
+      "amount": 5000,
+      "user_rating": 3
+    },
+    {
+      "user_id": "U016",
+      "item_id": "S006",
+      "item_type": "stock",
+      "action": "watchlisted",
+      "amount": 0,
+      "user_rating": null
+    },
+    {
+      "user_id": "U016",
+      "item_id": "S054",
+      "item_type": "stock",
+      "action": "watchlisted",
+      "amount": 0,
+      "user_rating": null
+    },
+    {
+      "user_id": "U016",
+      "item_id": "F043",
+      "item_type": "fund",
+      "action": "sip_active",
+      "amount": 25000,
+      "user_rating": null
+    },
+    {
+      "user_id": "U017",
+      "item_id": "F044",
+      "item_type": "fund",
+      "action": "watchlisted",
+      "amount": 0,
+      "user_rating": null
+    },
+    {
+      "user_id": "U017",
+      "item_id": "F010",
+      "item_type": "fund",
+      "action": "invested",
+      "amount": 500,
+      "user_rating": null
+    },
+    {
+      "user_id": "U017",
+      "item_id": "F089",
+      "item_type": "fund",
+      "action": "sip_active",
+      "amount": 5000,
+      "user_rating": null
+    },
+    {
+      "user_id": "U017",
+      "item_id": "S054",
+      "item_type": "stock",
+      "action": "invested",
+      "amount": 10000,
+      "user_rating": 5
+    },
+    {
+      "user_id": "U017",
+      "item_id": "F007",
+      "item_type": "fund",
+      "action": "sip_active",
+      "amount": 2000,
+      "user_rating": null
+    },
+    {
+      "user_id": "U017",
+      "item_id": "F021",
+      "item_type": "fund",
+      "action": "invested",
+      "amount": 1000,
+      "user_rating": null
+    },
+    {
+      "user_id": "U017",
+      "item_id": "F075",
+      "item_type": "fund",
+      "action": "invested",
+      "amount": 10000,
+      "user_rating": 3
+    },
+    {
+      "user_id": "U018",
+      "item_id": "F057",
+      "item_type": "fund",
+      "action": "watchlisted",
+      "amount": 0,
+      "user_rating": null
+    },
+    {
+      "user_id": "U018",
+      "item_id": "F090",
+      "item_type": "fund",
+      "action": "invested",
+      "amount": 10000,
+      "user_rating": 5
+    },
+    {
+      "user_id": "U018",
+      "item_id": "F023",
+      "item_type": "fund",
+      "action": "invested",
+      "amount": 10000,
+      "user_rating": null
+    },
+    {
+      "user_id": "U018",
+      "item_id": "F025",
+      "item_type": "fund",
+      "action": "invested",
+      "amount": 10000,
+      "user_rating": null
+    },
+    {
+      "user_id": "U018",
+      "item_id": "S053",
+      "item_type": "stock",
+      "action": "watchlisted",
+      "amount": 0,
+      "user_rating": null
+    },
+    {
+      "user_id": "U019",
+      "item_id": "S017",
+      "item_type": "stock",
+      "action": "watchlisted",
+      "amount": 0,
+      "user_rating": null
+    },
+    {
+      "user_id": "U019",
+      "item_id": "S058",
+      "item_type": "stock",
+      "action": "watchlisted",
+      "amount": 0,
+      "user_rating": null
+    },
+    {
+      "user_id": "U019",
+      "item_id": "F061",
+      "item_type": "fund",
+      "action": "watchlisted",
+      "amount": 0,
+      "user_rating": null
+    },
+    {
+      "user_id": "U019",
+      "item_id": "F005",
+      "item_type": "fund",
+      "action": "invested",
+      "amount": 500,
+      "user_rating": 5
+    },
+    {
+      "user_id": "U019",
+      "item_id": "F040",
+      "item_type": "fund",
+      "action": "invested",
+      "amount": 25000,
+      "user_rating": null
+    },
+    {
+      "user_id": "U020",
+      "item_id": "S018",
+      "item_type": "stock",
+      "action": "watchlisted",
+      "amount": 0,
+      "user_rating": null
+    },
+    {
+      "user_id": "U020",
+      "item_id": "S004",
+      "item_type": "stock",
+      "action": "invested",
+      "amount": 500,
+      "user_rating": 5
+    },
+    {
+      "user_id": "U020",
+      "item_id": "F057",
+      "item_type": "fund",
+      "action": "invested",
+      "amount": 1000,
+      "user_rating": null
+    },
+    {
+      "user_id": "U020",
+      "item_id": "F027",
+      "item_type": "fund",
+      "action": "invested",
+      "amount": 25000,
+      "user_rating": 3
+    },
+    {
+      "user_id": "U020",
+      "item_id": "S009",
+      "item_type": "stock",
+      "action": "watchlisted",
+      "amount": 0,
+      "user_rating": null
+    },
+    {
+      "user_id": "U020",
+      "item_id": "F053",
+      "item_type": "fund",
+      "action": "watchlisted",
+      "amount": 0,
+      "user_rating": null
+    },
+    {
+      "user_id": "U020",
+      "item_id": "S045",
+      "item_type": "stock",
+      "action": "invested",
+      "amount": 10000,
+      "user_rating": 4
+    },
+    {
+      "user_id": "U020",
+      "item_id": "S059",
+      "item_type": "stock",
+      "action": "watchlisted",
+      "amount": 0,
+      "user_rating": null
+    },
+    {
+      "user_id": "U021",
+      "item_id": "F049",
+      "item_type": "fund",
+      "action": "invested",
+      "amount": 2000,
+      "user_rating": 5
+    },
+    {
+      "user_id": "U021",
+      "item_id": "S016",
+      "item_type": "stock",
+      "action": "sip_active",
+      "amount": 25000,
+      "user_rating": null
+    },
+    {
+      "user_id": "U021",
+      "item_id": "F054",
+      "item_type": "fund",
+      "action": "sip_active",
+      "amount": 10000,
+      "user_rating": null
+    },
+    {
+      "user_id": "U021",
+      "item_id": "S013",
+      "item_type": "stock",
+      "action": "watchlisted",
+      "amount": 0,
+      "user_rating": null
+    },
+    {
+      "user_id": "U021",
+      "item_id": "S010",
+      "item_type": "stock",
+      "action": "sip_active",
+      "amount": 25000,
+      "user_rating": null
+    },
+    {
+      "user_id": "U021",
+      "item_id": "S002",
+      "item_type": "stock",
+      "action": "watchlisted",
+      "amount": 0,
+      "user_rating": null
+    },
+    {
+      "user_id": "U021",
+      "item_id": "F063",
+      "item_type": "fund",
+      "action": "watchlisted",
+      "amount": 0,
+      "user_rating": null
+    },
+    {
+      "user_id": "U021",
+      "item_id": "S001",
+      "item_type": "stock",
+      "action": "invested",
+      "amount": 10000,
+      "user_rating": null
+    },
+    {
+      "user_id": "U021",
+      "item_id": "S009",
+      "item_type": "stock",
+      "action": "invested",
+      "amount": 10000,
+      "user_rating": null
+    },
+    {
+      "user_id": "U021",
+      "item_id": "F090",
+      "item_type": "fund",
+      "action": "invested",
+      "amount": 5000,
+      "user_rating": null
+    },
+    {
+      "user_id": "U021",
+      "item_id": "F073",
+      "item_type": "fund",
+      "action": "sip_active",
+      "amount": 25000,
+      "user_rating": null
+    },
+    {
+      "user_id": "U022",
+      "item_id": "S004",
+      "item_type": "stock",
+      "action": "invested",
+      "amount": 500,
+      "user_rating": null
+    },
+    {
+      "user_id": "U022",
+      "item_id": "F066",
+      "item_type": "fund",
+      "action": "sip_active",
+      "amount": 2000,
+      "user_rating": null
+    },
+    {
+      "user_id": "U022",
+      "item_id": "S030",
+      "item_type": "stock",
+      "action": "invested",
+      "amount": 10000,
+      "user_rating": null
+    },
+    {
+      "user_id": "U022",
+      "item_id": "F055",
+      "item_type": "fund",
+      "action": "sip_active",
+      "amount": 2000,
+      "user_rating": null
+    },
+    {
+      "user_id": "U022",
+      "item_id": "S043",
+      "item_type": "stock",
+      "action": "invested",
+      "amount": 10000,
+      "user_rating": 5
+    },
+    {
+      "user_id": "U023",
+      "item_id": "F044",
+      "item_type": "fund",
+      "action": "watchlisted",
+      "amount": 0,
+      "user_rating": null
+    },
+    {
+      "user_id": "U023",
+      "item_id": "F047",
+      "item_type": "fund",
+      "action": "invested",
+      "amount": 5000,
+      "user_rating": null
+    },
+    {
+      "user_id": "U023",
+      "item_id": "F050",
+      "item_type": "fund",
+      "action": "watchlisted",
+      "amount": 0,
+      "user_rating": null
+    },
+    {
+      "user_id": "U023",
+      "item_id": "S035",
+      "item_type": "stock",
+      "action": "sip_active",
+      "amount": 5000,
+      "user_rating": null
+    },
+    {
+      "user_id": "U023",
+      "item_id": "S001",
+      "item_type": "stock",
+      "action": "invested",
+      "amount": 10000,
+      "user_rating": null
+    },
+    {
+      "user_id": "U023",
+      "item_id": "F051",
+      "item_type": "fund",
+      "action": "invested",
+      "amount": 500,
+      "user_rating": 2
+    },
+    {
+      "user_id": "U023",
+      "item_id": "S010",
+      "item_type": "stock",
+      "action": "watchlisted",
+      "amount": 0,
+      "user_rating": null
+    },
+    {
+      "user_id": "U024",
+      "item_id": "F010",
+      "item_type": "fund",
+      "action": "sip_active",
+      "amount": 5000,
+      "user_rating": null
+    },
+    {
+      "user_id": "U024",
+      "item_id": "S011",
+      "item_type": "stock",
+      "action": "invested",
+      "amount": 500,
+      "user_rating": null
+    },
+    {
+      "user_id": "U024",
+      "item_id": "F045",
+      "item_type": "fund",
+      "action": "sip_active",
+      "amount": 1000,
+      "user_rating": null
+    },
+    {
+      "user_id": "U024",
+      "item_id": "F068",
+      "item_type": "fund",
+      "action": "invested",
+      "amount": 1000,
+      "user_rating": 4
+    },
+    {
+      "user_id": "U024",
+      "item_id": "F014",
+      "item_type": "fund",
+      "action": "watchlisted",
+      "amount": 0,
+      "user_rating": null
+    },
+    {
+      "user_id": "U024",
+      "item_id": "F001",
+      "item_type": "fund",
+      "action": "invested",
+      "amount": 1000,
+      "user_rating": 3
+    },
+    {
+      "user_id": "U024",
+      "item_id": "F083",
+      "item_type": "fund",
+      "action": "watchlisted",
+      "amount": 0,
+      "user_rating": null
+    },
+    {
+      "user_id": "U025",
+      "item_id": "F071",
+      "item_type": "fund",
+      "action": "watchlisted",
+      "amount": 0,
+      "user_rating": null
+    },
+    {
+      "user_id": "U025",
+      "item_id": "S018",
+      "item_type": "stock",
+      "action": "watchlisted",
+      "amount": 0,
+      "user_rating": null
+    },
+    {
+      "user_id": "U025",
+      "item_id": "F016",
+      "item_type": "fund",
+      "action": "invested",
+      "amount": 500,
+      "user_rating": 2
+    },
+    {
+      "user_id": "U025",
+      "item_id": "S013",
+      "item_type": "stock",
+      "action": "invested",
+      "amount": 10000,
+      "user_rating": null
+    },
+    {
+      "user_id": "U025",
+      "item_id": "F074",
+      "item_type": "fund",
+      "action": "sip_active",
+      "amount": 5000,
+      "user_rating": null
+    },
+    {
+      "user_id": "U025",
+      "item_id": "S006",
+      "item_type": "stock",
+      "action": "invested",
+      "amount": 2000,
+      "user_rating": null
+    },
+    {
+      "user_id": "U025",
+      "item_id": "F028",
+      "item_type": "fund",
+      "action": "invested",
+      "amount": 25000,
+      "user_rating": null
+    },
+    {
+      "user_id": "U026",
+      "item_id": "F083",
+      "item_type": "fund",
+      "action": "invested",
+      "amount": 10000,
+      "user_rating": 2
+    },
+    {
+      "user_id": "U026",
+      "item_id": "S059",
+      "item_type": "stock",
+      "action": "invested",
+      "amount": 5000,
+      "user_rating": 3
+    },
+    {
+      "user_id": "U026",
+      "item_id": "F023",
+      "item_type": "fund",
+      "action": "invested",
+      "amount": 5000,
+      "user_rating": 4
+    },
+    {
+      "user_id": "U026",
+      "item_id": "S020",
+      "item_type": "stock",
+      "action": "watchlisted",
+      "amount": 0,
+      "user_rating": null
+    },
+    {
+      "user_id": "U026",
+      "item_id": "F067",
+      "item_type": "fund",
+      "action": "sip_active",
+      "amount": 25000,
+      "user_rating": null
+    },
+    {
+      "user_id": "U026",
+      "item_id": "F072",
+      "item_type": "fund",
+      "action": "invested",
+      "amount": 1000,
+      "user_rating": 2
+    },
+    {
+      "user_id": "U026",
+      "item_id": "S023",
+      "item_type": "stock",
+      "action": "invested",
+      "amount": 25000,
+      "user_rating": 3
+    },
+    {
+      "user_id": "U026",
+      "item_id": "S060",
+      "item_type": "stock",
+      "action": "invested",
+      "amount": 2000,
+      "user_rating": 3
+    },
+    {
+      "user_id": "U026",
+      "item_id": "F020",
+      "item_type": "fund",
+      "action": "watchlisted",
+      "amount": 0,
+      "user_rating": null
+    },
+    {
+      "user_id": "U026",
+      "item_id": "S024",
+      "item_type": "stock",
+      "action": "sip_active",
+      "amount": 25000,
+      "user_rating": null
+    },
+    {
+      "user_id": "U026",
+      "item_id": "S004",
+      "item_type": "stock",
+      "action": "sip_active",
+      "amount": 5000,
+      "user_rating": null
+    },
+    {
+      "user_id": "U026",
+      "item_id": "F046",
+      "item_type": "fund",
+      "action": "watchlisted",
+      "amount": 0,
+      "user_rating": null
+    },
+    {
+      "user_id": "U027",
+      "item_id": "F028",
+      "item_type": "fund",
+      "action": "watchlisted",
+      "amount": 0,
+      "user_rating": null
+    },
+    {
+      "user_id": "U027",
+      "item_id": "F067",
+      "item_type": "fund",
+      "action": "watchlisted",
+      "amount": 0,
+      "user_rating": null
+    },
+    {
+      "user_id": "U027",
+      "item_id": "F071",
+      "item_type": "fund",
+      "action": "invested",
+      "amount": 25000,
+      "user_rating": 5
+    },
+    {
+      "user_id": "U027",
+      "item_id": "S040",
+      "item_type": "stock",
+      "action": "invested",
+      "amount": 500,
+      "user_rating": 4
+    },
+    {
+      "user_id": "U027",
+      "item_id": "F001",
+      "item_type": "fund",
+      "action": "sip_active",
+      "amount": 5000,
+      "user_rating": null
+    },
+    {
+      "user_id": "U027",
+      "item_id": "F051",
+      "item_type": "fund",
+      "action": "watchlisted",
+      "amount": 0,
+      "user_rating": null
+    },
+    {
+      "user_id": "U027",
+      "item_id": "S059",
+      "item_type": "stock",
+      "action": "watchlisted",
+      "amount": 0,
+      "user_rating": null
+    },
+    {
+      "user_id": "U027",
+      "item_id": "F078",
+      "item_type": "fund",
+      "action": "invested",
+      "amount": 500,
+      "user_rating": 3
+    },
+    {
+      "user_id": "U027",
+      "item_id": "F064",
+      "item_type": "fund",
+      "action": "invested",
+      "amount": 1000,
+      "user_rating": 2
+    },
+    {
+      "user_id": "U027",
+      "item_id": "F020",
+      "item_type": "fund",
+      "action": "watchlisted",
+      "amount": 0,
+      "user_rating": null
+    },
+    {
+      "user_id": "U027",
+      "item_id": "S058",
+      "item_type": "stock",
+      "action": "sip_active",
+      "amount": 2000,
+      "user_rating": null
+    },
+    {
+      "user_id": "U027",
+      "item_id": "F005",
+      "item_type": "fund",
+      "action": "watchlisted",
+      "amount": 0,
+      "user_rating": null
+    },
+    {
+      "user_id": "U028",
+      "item_id": "S051",
+      "item_type": "stock",
+      "action": "sip_active",
+      "amount": 25000,
+      "user_rating": null
+    },
+    {
+      "user_id": "U028",
+      "item_id": "S039",
+      "item_type": "stock",
+      "action": "watchlisted",
+      "amount": 0,
+      "user_rating": null
+    },
+    {
+      "user_id": "U028",
+      "item_id": "F032",
+      "item_type": "fund",
+      "action": "watchlisted",
+      "amount": 0,
+      "user_rating": null
+    },
+    {
+      "user_id": "U028",
+      "item_id": "S026",
+      "item_type": "stock",
+      "action": "invested",
+      "amount": 500,
+      "user_rating": null
+    },
+    {
+      "user_id": "U028",
+      "item_id": "F086",
+      "item_type": "fund",
+      "action": "invested",
+      "amount": 2000,
+      "user_rating": 4
+    },
+    {
+      "user_id": "U028",
+      "item_id": "F062",
+      "item_type": "fund",
+      "action": "invested",
+      "amount": 5000,
+      "user_rating": 3
+    },
+    {
+      "user_id": "U028",
+      "item_id": "F077",
+      "item_type": "fund",
+      "action": "sip_active",
+      "amount": 1000,
+      "user_rating": null
+    },
+    {
+      "user_id": "U028",
+      "item_id": "F081",
+      "item_type": "fund",
+      "action": "watchlisted",
+      "amount": 0,
+      "user_rating": null
+    },
+    {
+      "user_id": "U028",
+      "item_id": "S007",
+      "item_type": "stock",
+      "action": "invested",
+      "amount": 25000,
+      "user_rating": null
+    },
+    {
+      "user_id": "U028",
+      "item_id": "S012",
+      "item_type": "stock",
+      "action": "invested",
+      "amount": 25000,
+      "user_rating": 3
+    },
+    {
+      "user_id": "U029",
+      "item_id": "F052",
+      "item_type": "fund",
+      "action": "watchlisted",
+      "amount": 0,
+      "user_rating": null
+    },
+    {
+      "user_id": "U029",
+      "item_id": "F015",
+      "item_type": "fund",
+      "action": "sip_active",
+      "amount": 5000,
+      "user_rating": null
+    },
+    {
+      "user_id": "U029",
+      "item_id": "F044",
+      "item_type": "fund",
+      "action": "invested",
+      "amount": 25000,
+      "user_rating": null
+    },
+    {
+      "user_id": "U029",
+      "item_id": "F007",
+      "item_type": "fund",
+      "action": "watchlisted",
+      "amount": 0,
+      "user_rating": null
+    },
+    {
+      "user_id": "U029",
+      "item_id": "F003",
+      "item_type": "fund",
+      "action": "invested",
+      "amount": 25000,
+      "user_rating": 4
+    },
+    {
+      "user_id": "U029",
+      "item_id": "F014",
+      "item_type": "fund",
+      "action": "invested",
+      "amount": 2000,
+      "user_rating": null
+    },
+    {
+      "user_id": "U030",
+      "item_id": "F084",
+      "item_type": "fund",
+      "action": "invested",
+      "amount": 2000,
+      "user_rating": 4
+    },
+    {
+      "user_id": "U030",
+      "item_id": "F016",
+      "item_type": "fund",
+      "action": "invested",
+      "amount": 2000,
+      "user_rating": null
+    },
+    {
+      "user_id": "U030",
+      "item_id": "F006",
+      "item_type": "fund",
+      "action": "invested",
+      "amount": 10000,
+      "user_rating": 5
+    },
+    {
+      "user_id": "U030",
+      "item_id": "S020",
+      "item_type": "stock",
+      "action": "invested",
+      "amount": 25000,
+      "user_rating": null
+    },
+    {
+      "user_id": "U030",
+      "item_id": "F058",
+      "item_type": "fund",
+      "action": "invested",
+      "amount": 5000,
+      "user_rating": null
+    },
+    {
+      "user_id": "U031",
+      "item_id": "F064",
+      "item_type": "fund",
+      "action": "invested",
+      "amount": 5000,
+      "user_rating": 4
+    },
+    {
+      "user_id": "U031",
+      "item_id": "S059",
+      "item_type": "stock",
+      "action": "watchlisted",
+      "amount": 0,
+      "user_rating": null
+    },
+    {
+      "user_id": "U031",
+      "item_id": "S010",
+      "item_type": "stock",
+      "action": "watchlisted",
+      "amount": 0,
+      "user_rating": null
+    },
+    {
+      "user_id": "U031",
+      "item_id": "F080",
+      "item_type": "fund",
+      "action": "invested",
+      "amount": 10000,
+      "user_rating": 4
+    },
+    {
+      "user_id": "U032",
+      "item_id": "F059",
+      "item_type": "fund",
+      "action": "invested",
+      "amount": 2000,
+      "user_rating": null
+    },
+    {
+      "user_id": "U032",
+      "item_id": "F067",
+      "item_type": "fund",
+      "action": "invested",
+      "amount": 25000,
+      "user_rating": 4
+    },
+    {
+      "user_id": "U032",
+      "item_id": "S040",
+      "item_type": "stock",
+      "action": "invested",
+      "amount": 10000,
+      "user_rating": null
+    },
+    {
+      "user_id": "U032",
+      "item_id": "S030",
+      "item_type": "stock",
+      "action": "invested",
+      "amount": 10000,
+      "user_rating": null
+    },
+    {
+      "user_id": "U032",
+      "item_id": "S033",
+      "item_type": "stock",
+      "action": "watchlisted",
+      "amount": 0,
+      "user_rating": null
+    },
+    {
+      "user_id": "U032",
+      "item_id": "F003",
+      "item_type": "fund",
+      "action": "sip_active",
+      "amount": 10000,
+      "user_rating": null
+    },
+    {
+      "user_id": "U033",
+      "item_id": "F012",
+      "item_type": "fund",
+      "action": "sip_active",
+      "amount": 10000,
+      "user_rating": null
+    },
+    {
+      "user_id": "U033",
+      "item_id": "F007",
+      "item_type": "fund",
+      "action": "sip_active",
+      "amount": 5000,
+      "user_rating": null
+    },
+    {
+      "user_id": "U033",
+      "item_id": "F064",
+      "item_type": "fund",
+      "action": "watchlisted",
+      "amount": 0,
+      "user_rating": null
+    },
+    {
+      "user_id": "U033",
+      "item_id": "F045",
+      "item_type": "fund",
+      "action": "invested",
+      "amount": 1000,
+      "user_rating": 3
+    },
+    {
+      "user_id": "U033",
+      "item_id": "S014",
+      "item_type": "stock",
+      "action": "sip_active",
+      "amount": 500,
+      "user_rating": null
+    },
+    {
+      "user_id": "U034",
+      "item_id": "S044",
+      "item_type": "stock",
+      "action": "watchlisted",
+      "amount": 0,
+      "user_rating": null
+    },
+    {
+      "user_id": "U034",
+      "item_id": "F065",
+      "item_type": "fund",
+      "action": "invested",
+      "amount": 500,
+      "user_rating": null
+    },
+    {
+      "user_id": "U034",
+      "item_id": "S056",
+      "item_type": "stock",
+      "action": "watchlisted",
+      "amount": 0,
+      "user_rating": null
+    },
+    {
+      "user_id": "U034",
+      "item_id": "F022",
+      "item_type": "fund",
+      "action": "invested",
+      "amount": 5000,
+      "user_rating": null
+    },
+    {
+      "user_id": "U034",
+      "item_id": "F016",
+      "item_type": "fund",
+      "action": "watchlisted",
+      "amount": 0,
+      "user_rating": null
+    },
+    {
+      "user_id": "U034",
+      "item_id": "S016",
+      "item_type": "stock",
+      "action": "watchlisted",
+      "amount": 0,
+      "user_rating": null
+    },
+    {
+      "user_id": "U034",
+      "item_id": "S054",
+      "item_type": "stock",
+      "action": "sip_active",
+      "amount": 2000,
+      "user_rating": null
+    },
+    {
+      "user_id": "U035",
+      "item_id": "F083",
+      "item_type": "fund",
+      "action": "invested",
+      "amount": 2000,
+      "user_rating": 5
+    },
+    {
+      "user_id": "U035",
+      "item_id": "F080",
+      "item_type": "fund",
+      "action": "invested",
+      "amount": 500,
+      "user_rating": 4
+    },
+    {
+      "user_id": "U035",
+      "item_id": "F007",
+      "item_type": "fund",
+      "action": "watchlisted",
+      "amount": 0,
+      "user_rating": null
+    },
+    {
+      "user_id": "U035",
+      "item_id": "F065",
+      "item_type": "fund",
+      "action": "watchlisted",
+      "amount": 0,
+      "user_rating": null
+    },
+    {
+      "user_id": "U035",
+      "item_id": "F016",
+      "item_type": "fund",
+      "action": "invested",
+      "amount": 25000,
+      "user_rating": null
+    },
+    {
+      "user_id": "U035",
+      "item_id": "S010",
+      "item_type": "stock",
+      "action": "watchlisted",
+      "amount": 0,
+      "user_rating": null
+    },
+    {
+      "user_id": "U035",
+      "item_id": "F063",
+      "item_type": "fund",
+      "action": "watchlisted",
+      "amount": 0,
+      "user_rating": null
+    },
+    {
+      "user_id": "U035",
+      "item_id": "F088",
+      "item_type": "fund",
+      "action": "watchlisted",
+      "amount": 0,
+      "user_rating": null
+    },
+    {
+      "user_id": "U035",
+      "item_id": "F005",
+      "item_type": "fund",
+      "action": "watchlisted",
+      "amount": 0,
+      "user_rating": null
+    },
+    {
+      "user_id": "U036",
+      "item_id": "F017",
+      "item_type": "fund",
+      "action": "invested",
+      "amount": 5000,
+      "user_rating": null
+    },
+    {
+      "user_id": "U036",
+      "item_id": "F014",
+      "item_type": "fund",
+      "action": "watchlisted",
+      "amount": 0,
+      "user_rating": null
+    },
+    {
+      "user_id": "U036",
+      "item_id": "F085",
+      "item_type": "fund",
+      "action": "watchlisted",
+      "amount": 0,
+      "user_rating": null
+    },
+    {
+      "user_id": "U036",
+      "item_id": "F088",
+      "item_type": "fund",
+      "action": "invested",
+      "amount": 500,
+      "user_rating": 2
+    },
+    {
+      "user_id": "U036",
+      "item_id": "F028",
+      "item_type": "fund",
+      "action": "invested",
+      "amount": 25000,
+      "user_rating": 3
+    },
+    {
+      "user_id": "U036",
+      "item_id": "F003",
+      "item_type": "fund",
+      "action": "invested",
+      "amount": 500,
+      "user_rating": 4
+    },
+    {
+      "user_id": "U037",
+      "item_id": "F050",
+      "item_type": "fund",
+      "action": "watchlisted",
+      "amount": 0,
+      "user_rating": null
+    },
+    {
+      "user_id": "U037",
+      "item_id": "F024",
+      "item_type": "fund",
+      "action": "sip_active",
+      "amount": 5000,
+      "user_rating": null
+    },
+    {
+      "user_id": "U037",
+      "item_id": "F071",
+      "item_type": "fund",
+      "action": "invested",
+      "amount": 1000,
+      "user_rating": 5
+    },
+    {
+      "user_id": "U037",
+      "item_id": "F023",
+      "item_type": "fund",
+      "action": "invested",
+      "amount": 1000,
+      "user_rating": null
+    },
+    {
+      "user_id": "U037",
+      "item_id": "F075",
+      "item_type": "fund",
+      "action": "invested",
+      "amount": 500,
+      "user_rating": 4
+    },
+    {
+      "user_id": "U038",
+      "item_id": "S011",
+      "item_type": "stock",
+      "action": "watchlisted",
+      "amount": 0,
+      "user_rating": null
+    },
+    {
+      "user_id": "U038",
+      "item_id": "S054",
+      "item_type": "stock",
+      "action": "sip_active",
+      "amount": 25000,
+      "user_rating": null
+    },
+    {
+      "user_id": "U038",
+      "item_id": "F039",
+      "item_type": "fund",
+      "action": "watchlisted",
+      "amount": 0,
+      "user_rating": null
+    },
+    {
+      "user_id": "U038",
+      "item_id": "F020",
+      "item_type": "fund",
+      "action": "watchlisted",
+      "amount": 0,
+      "user_rating": null
+    },
+    {
+      "user_id": "U038",
+      "item_id": "F031",
+      "item_type": "fund",
+      "action": "sip_active",
+      "amount": 2000,
+      "user_rating": null
+    },
+    {
+      "user_id": "U038",
+      "item_id": "S048",
+      "item_type": "stock",
+      "action": "invested",
+      "amount": 25000,
+      "user_rating": null
+    },
+    {
+      "user_id": "U038",
+      "item_id": "S016",
+      "item_type": "stock",
+      "action": "watchlisted",
+      "amount": 0,
+      "user_rating": null
+    },
+    {
+      "user_id": "U038",
+      "item_id": "F047",
+      "item_type": "fund",
+      "action": "watchlisted",
+      "amount": 0,
+      "user_rating": null
+    },
+    {
+      "user_id": "U038",
+      "item_id": "S039",
+      "item_type": "stock",
+      "action": "invested",
+      "amount": 1000,
+      "user_rating": 1
+    },
+    {
+      "user_id": "U038",
+      "item_id": "S044",
+      "item_type": "stock",
+      "action": "invested",
+      "amount": 10000,
+      "user_rating": 4
+    },
+    {
+      "user_id": "U038",
+      "item_id": "S043",
+      "item_type": "stock",
+      "action": "invested",
+      "amount": 2000,
+      "user_rating": null
+    },
+    {
+      "user_id": "U038",
+      "item_id": "S052",
+      "item_type": "stock",
+      "action": "invested",
+      "amount": 5000,
+      "user_rating": null
+    },
+    {
+      "user_id": "U038",
+      "item_id": "F040",
+      "item_type": "fund",
+      "action": "watchlisted",
+      "amount": 0,
+      "user_rating": null
+    },
+    {
+      "user_id": "U039",
+      "item_id": "F074",
+      "item_type": "fund",
+      "action": "invested",
+      "amount": 1000,
+      "user_rating": null
+    },
+    {
+      "user_id": "U039",
+      "item_id": "F063",
+      "item_type": "fund",
+      "action": "sip_active",
+      "amount": 500,
+      "user_rating": null
+    },
+    {
+      "user_id": "U039",
+      "item_id": "F030",
+      "item_type": "fund",
+      "action": "watchlisted",
+      "amount": 0,
+      "user_rating": null
+    },
+    {
+      "user_id": "U039",
+      "item_id": "F068",
+      "item_type": "fund",
+      "action": "watchlisted",
+      "amount": 0,
+      "user_rating": null
+    },
+    {
+      "user_id": "U039",
+      "item_id": "F087",
+      "item_type": "fund",
+      "action": "invested",
+      "amount": 2000,
+      "user_rating": null
+    },
+    {
+      "user_id": "U039",
+      "item_id": "S030",
+      "item_type": "stock",
+      "action": "invested",
+      "amount": 1000,
+      "user_rating": null
+    },
+    {
+      "user_id": "U039",
+      "item_id": "F083",
+      "item_type": "fund",
+      "action": "sip_active",
+      "amount": 500,
+      "user_rating": null
+    },
+    {
+      "user_id": "U039",
+      "item_id": "F088",
+      "item_type": "fund",
+      "action": "sip_active",
+      "amount": 25000,
+      "user_rating": null
+    },
+    {
+      "user_id": "U040",
+      "item_id": "F080",
+      "item_type": "fund",
+      "action": "watchlisted",
+      "amount": 0,
+      "user_rating": null
+    },
+    {
+      "user_id": "U040",
+      "item_id": "F089",
+      "item_type": "fund",
+      "action": "sip_active",
+      "amount": 2000,
+      "user_rating": null
+    },
+    {
+      "user_id": "U040",
+      "item_id": "F046",
+      "item_type": "fund",
+      "action": "watchlisted",
+      "amount": 0,
+      "user_rating": null
+    },
+    {
+      "user_id": "U040",
+      "item_id": "F068",
+      "item_type": "fund",
+      "action": "sip_active",
+      "amount": 2000,
+      "user_rating": null
+    },
+    {
+      "user_id": "U040",
+      "item_id": "F066",
+      "item_type": "fund",
+      "action": "watchlisted",
+      "amount": 0,
+      "user_rating": null
+    },
+    {
+      "user_id": "U040",
+      "item_id": "S034",
+      "item_type": "stock",
+      "action": "invested",
+      "amount": 10000,
+      "user_rating": null
+    },
+    {
+      "user_id": "U040",
+      "item_id": "S032",
+      "item_type": "stock",
+      "action": "sip_active",
+      "amount": 1000,
+      "user_rating": null
+    },
+    {
+      "user_id": "U040",
+      "item_id": "S031",
+      "item_type": "stock",
+      "action": "watchlisted",
+      "amount": 0,
+      "user_rating": null
+    },
+    {
+      "user_id": "U040",
+      "item_id": "F003",
+      "item_type": "fund",
+      "action": "sip_active",
+      "amount": 10000,
+      "user_rating": null
+    },
+    {
+      "user_id": "U040",
+      "item_id": "S013",
+      "item_type": "stock",
+      "action": "sip_active",
+      "amount": 25000,
+      "user_rating": null
+    },
+    {
+      "user_id": "U041",
+      "item_id": "F018",
+      "item_type": "fund",
+      "action": "invested",
+      "amount": 1000,
+      "user_rating": null
+    },
+    {
+      "user_id": "U041",
+      "item_id": "F003",
+      "item_type": "fund",
+      "action": "sip_active",
+      "amount": 2000,
+      "user_rating": null
+    },
+    {
+      "user_id": "U041",
+      "item_id": "F017",
+      "item_type": "fund",
+      "action": "invested",
+      "amount": 5000,
+      "user_rating": null
+    },
+    {
+      "user_id": "U041",
+      "item_id": "F050",
+      "item_type": "fund",
+      "action": "invested",
+      "amount": 25000,
+      "user_rating": 4
+    },
+    {
+      "user_id": "U041",
+      "item_id": "F053",
+      "item_type": "fund",
+      "action": "invested",
+      "amount": 10000,
+      "user_rating": null
+    },
+    {
+      "user_id": "U041",
+      "item_id": "S038",
+      "item_type": "stock",
+      "action": "watchlisted",
+      "amount": 0,
+      "user_rating": null
+    },
+    {
+      "user_id": "U041",
+      "item_id": "F062",
+      "item_type": "fund",
+      "action": "watchlisted",
+      "amount": 0,
+      "user_rating": null
+    },
+    {
+      "user_id": "U041",
+      "item_id": "S007",
+      "item_type": "stock",
+      "action": "invested",
+      "amount": 5000,
+      "user_rating": 1
+    },
+    {
+      "user_id": "U041",
+      "item_id": "F010",
+      "item_type": "fund",
+      "action": "invested",
+      "amount": 500,
+      "user_rating": 4
+    },
+    {
+      "user_id": "U041",
+      "item_id": "F022",
+      "item_type": "fund",
+      "action": "invested",
+      "amount": 1000,
+      "user_rating": 3
+    },
+    {
+      "user_id": "U041",
+      "item_id": "S009",
+      "item_type": "stock",
+      "action": "watchlisted",
+      "amount": 0,
+      "user_rating": null
+    },
+    {
+      "user_id": "U042",
+      "item_id": "S049",
+      "item_type": "stock",
+      "action": "invested",
+      "amount": 10000,
+      "user_rating": null
+    },
+    {
+      "user_id": "U042",
+      "item_id": "F083",
+      "item_type": "fund",
+      "action": "watchlisted",
+      "amount": 0,
+      "user_rating": null
+    },
+    {
+      "user_id": "U042",
+      "item_id": "F053",
+      "item_type": "fund",
+      "action": "sip_active",
+      "amount": 25000,
+      "user_rating": null
+    },
+    {
+      "user_id": "U042",
+      "item_id": "F082",
+      "item_type": "fund",
+      "action": "invested",
+      "amount": 500,
+      "user_rating": null
+    },
+    {
+      "user_id": "U042",
+      "item_id": "S022",
+      "item_type": "stock",
+      "action": "watchlisted",
+      "amount": 0,
+      "user_rating": null
+    },
+    {
+      "user_id": "U042",
+      "item_id": "F010",
+      "item_type": "fund",
+      "action": "watchlisted",
+      "amount": 0,
+      "user_rating": null
+    },
+    {
+      "user_id": "U042",
+      "item_id": "S032",
+      "item_type": "stock",
+      "action": "invested",
+      "amount": 2000,
+      "user_rating": null
+    },
+    {
+      "user_id": "U042",
+      "item_id": "F049",
+      "item_type": "fund",
+      "action": "invested",
+      "amount": 2000,
+      "user_rating": 3
+    },
+    {
+      "user_id": "U042",
+      "item_id": "F074",
+      "item_type": "fund",
+      "action": "invested",
+      "amount": 10000,
+      "user_rating": 1
+    },
+    {
+      "user_id": "U042",
+      "item_id": "F075",
+      "item_type": "fund",
+      "action": "watchlisted",
+      "amount": 0,
+      "user_rating": null
+    },
+    {
+      "user_id": "U042",
+      "item_id": "F018",
+      "item_type": "fund",
+      "action": "watchlisted",
+      "amount": 0,
+      "user_rating": null
+    },
+    {
+      "user_id": "U042",
+      "item_id": "F044",
+      "item_type": "fund",
+      "action": "sip_active",
+      "amount": 25000,
+      "user_rating": null
+    },
+    {
+      "user_id": "U043",
+      "item_id": "S037",
+      "item_type": "stock",
+      "action": "invested",
+      "amount": 5000,
+      "user_rating": null
+    },
+    {
+      "user_id": "U043",
+      "item_id": "S038",
+      "item_type": "stock",
+      "action": "invested",
+      "amount": 25000,
+      "user_rating": 3
+    },
+    {
+      "user_id": "U043",
+      "item_id": "F090",
+      "item_type": "fund",
+      "action": "invested",
+      "amount": 2000,
+      "user_rating": null
+    },
+    {
+      "user_id": "U043",
+      "item_id": "F003",
+      "item_type": "fund",
+      "action": "invested",
+      "amount": 25000,
+      "user_rating": 3
+    },
+    {
+      "user_id": "U043",
+      "item_id": "F008",
+      "item_type": "fund",
+      "action": "watchlisted",
+      "amount": 0,
+      "user_rating": null
+    },
+    {
+      "user_id": "U043",
+      "item_id": "F021",
+      "item_type": "fund",
+      "action": "invested",
+      "amount": 10000,
+      "user_rating": 3
+    },
+    {
+      "user_id": "U043",
+      "item_id": "F014",
+      "item_type": "fund",
+      "action": "invested",
+      "amount": 500,
+      "user_rating": 3
+    },
+    {
+      "user_id": "U043",
+      "item_id": "F053",
+      "item_type": "fund",
+      "action": "invested",
+      "amount": 1000,
+      "user_rating": null
+    },
+    {
+      "user_id": "U043",
+      "item_id": "S041",
+      "item_type": "stock",
+      "action": "sip_active",
+      "amount": 10000,
+      "user_rating": null
+    },
+    {
+      "user_id": "U043",
+      "item_id": "F058",
+      "item_type": "fund",
+      "action": "sip_active",
+      "amount": 500,
+      "user_rating": null
+    },
+    {
+      "user_id": "U044",
+      "item_id": "F015",
+      "item_type": "fund",
+      "action": "sip_active",
+      "amount": 10000,
+      "user_rating": null
+    },
+    {
+      "user_id": "U044",
+      "item_id": "F037",
+      "item_type": "fund",
+      "action": "invested",
+      "amount": 2000,
+      "user_rating": 3
+    },
+    {
+      "user_id": "U044",
+      "item_id": "S030",
+      "item_type": "stock",
+      "action": "watchlisted",
+      "amount": 0,
+      "user_rating": null
+    },
+    {
+      "user_id": "U044",
+      "item_id": "S001",
+      "item_type": "stock",
+      "action": "invested",
+      "amount": 500,
+      "user_rating": 4
+    },
+    {
+      "user_id": "U044",
+      "item_id": "F022",
+      "item_type": "fund",
+      "action": "sip_active",
+      "amount": 500,
+      "user_rating": null
+    },
+    {
+      "user_id": "U044",
+      "item_id": "S046",
+      "item_type": "stock",
+      "action": "invested",
+      "amount": 500,
+      "user_rating": 3
+    },
+    {
+      "user_id": "U044",
+      "item_id": "F065",
+      "item_type": "fund",
+      "action": "invested",
+      "amount": 5000,
+      "user_rating": null
+    },
+    {
+      "user_id": "U044",
+      "item_id": "S040",
+      "item_type": "stock",
+      "action": "invested",
+      "amount": 500,
+      "user_rating": null
+    },
+    {
+      "user_id": "U044",
+      "item_id": "S035",
+      "item_type": "stock",
+      "action": "watchlisted",
+      "amount": 0,
+      "user_rating": null
+    },
+    {
+      "user_id": "U044",
+      "item_id": "S013",
+      "item_type": "stock",
+      "action": "sip_active",
+      "amount": 500,
+      "user_rating": null
+    },
+    {
+      "user_id": "U045",
+      "item_id": "F022",
+      "item_type": "fund",
+      "action": "watchlisted",
+      "amount": 0,
+      "user_rating": null
+    },
+    {
+      "user_id": "U045",
+      "item_id": "S042",
+      "item_type": "stock",
+      "action": "sip_active",
+      "amount": 1000,
+      "user_rating": null
+    },
+    {
+      "user_id": "U045",
+      "item_id": "S024",
+      "item_type": "stock",
+      "action": "watchlisted",
+      "amount": 0,
+      "user_rating": null
+    },
+    {
+      "user_id": "U045",
+      "item_id": "F012",
+      "item_type": "fund",
+      "action": "sip_active",
+      "amount": 25000,
+      "user_rating": null
+    },
+    {
+      "user_id": "U045",
+      "item_id": "S023",
+      "item_type": "stock",
+      "action": "invested",
+      "amount": 25000,
+      "user_rating": 3
+    },
+    {
+      "user_id": "U045",
+      "item_id": "S001",
+      "item_type": "stock",
+      "action": "invested",
+      "amount": 500,
+      "user_rating": null
+    },
+    {
+      "user_id": "U045",
+      "item_id": "F015",
+      "item_type": "fund",
+      "action": "invested",
+      "amount": 10000,
+      "user_rating": 5
+    },
+    {
+      "user_id": "U045",
+      "item_id": "F076",
+      "item_type": "fund",
+      "action": "invested",
+      "amount": 5000,
+      "user_rating": 4
+    },
+    {
+      "user_id": "U045",
+      "item_id": "F081",
+      "item_type": "fund",
+      "action": "invested",
+      "amount": 10000,
+      "user_rating": null
+    },
+    {
+      "user_id": "U045",
+      "item_id": "F031",
+      "item_type": "fund",
+      "action": "sip_active",
+      "amount": 5000,
+      "user_rating": null
+    },
+    {
+      "user_id": "U045",
+      "item_id": "S054",
+      "item_type": "stock",
+      "action": "watchlisted",
+      "amount": 0,
+      "user_rating": null
+    }
+  ]
+}
