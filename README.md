@@ -10,6 +10,9 @@ that's genuinely evaluable (precision/recall, not just "looks nice"), not just
 a UI mockup.
 
 ---
+<img width="1908" height="977" alt="image" src="https://github.com/user-attachments/assets/74a5d12d-07a3-47b3-b1e4-cfb2b8c4084b" />
+<img width="1911" height="978" alt="image" src="https://github.com/user-attachments/assets/44d58b3f-d83e-4283-9a5a-5efb25076d6f" />
+<img width="1912" height="977" alt="image" src="https://github.com/user-attachments/assets/04c792c2-d4de-4150-993b-237ecb920a82" />
 
 ## Architecture
 
